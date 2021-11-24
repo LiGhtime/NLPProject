@@ -31,7 +31,7 @@
 {"premise": "The mother needed help looking after her children.", "choice1": "She sent the children to daycare.", "choice2": "She gave up custody of the children.", "question": "effect", "label": 0, "idx": 380}
 {"premise": "The driver honked her horn.", "choice1": "Another car swerved into her lane.", "choice2": "She made a right turn at the light.", "question": "cause", "label": 0, "idx": 381}
 {"premise": "The man wanted to save money.", "choice1": "He withdrew money from his savings account.", "choice2": "He cut back on making frivolous purchases.", "question": "effect", "label": 1, "idx": 382}
-{"premise": "I put shoes on.", "choice1": "The floor contained broken glass.", "choice2": "The paint on the walls was wet.", "question": "cause", "label": 0, "idx": 383} [2spanish]
+{"premise": "I put shoes on.", "choice1": "The floor contained broken glass.", "choice2": "The paint on the walls was wet.", "question": "cause", "label": 0, "idx": 383}
 {"premise": "The librarian located the book in the stacks.", "choice1": "I requested the librarian's help.", "choice2": "The book was checked out.", "question": "cause", "label": 0, "idx": 384}
 {"premise": "The mother became eye level with her son.", "choice1": "She squatted down.", "choice2": "She held his hand.", "question": "cause", "label": 0, "idx": 385}
 {"premise": "I packed up my belongings.", "choice1": "I was hunting for a new apartment.", "choice2": "I was moving out of my apartment.", "question": "cause", "label": 1, "idx": 386}
