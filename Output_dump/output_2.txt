@@ -1,0 +1,1501 @@
+--------------Epoch: 1--------------
+Training for epoch 1.......
+train_loss:  tensor(53.3011, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[37.0629, 90.3639]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0.0032, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[42.4878, 36.7539]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 1
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.3341, 31.3341]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.3341, 31.3341]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 2--------------
+Training for epoch 2.......
+train_loss:  tensor(109.6080, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-21.7545,  87.8534]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[  53.0617, -110.4869]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 2
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.3201, 31.3201]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.3201, 31.3201]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 3--------------
+Training for epoch 3.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ -1.2971, -37.4292]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(82.1499, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-41.4106,  40.7393]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 3
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.3642, 31.3642]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.3642, 31.3642]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 4--------------
+Training for epoch 4.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[87.8317, 48.2700]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 79.7313, -68.6750]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 4
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.3335, 31.3335]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.3335, 31.3335]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 5--------------
+Training for epoch 5.......
+train_loss:  tensor(109.4385, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-71.4266,  38.0119]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(80.9857, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-85.5118,  -4.5262]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 5
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.3212, 31.3212]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.3212, 31.3212]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 6--------------
+Training for epoch 6.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[66.1562, 28.1762]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(58.9133, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 2.4745, 61.3878]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 6
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.3895, 31.3895]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.3895, 31.3895]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 7--------------
+Training for epoch 7.......
+train_loss:  tensor(6.3608, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-17.2990, -10.9400]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[  9.6415, -29.1611]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 7
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.2826, 31.2826]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.2826, 31.2826]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 8--------------
+Training for epoch 8.......
+train_loss:  tensor(37.5265, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[59.5176, 97.0441]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(33.8544, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-54.5917, -20.7374]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 8
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.4078, 31.4078]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.4078, 31.4078]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 9--------------
+Training for epoch 9.......
+train_loss:  tensor(97.2237, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-61.5631,  35.6606]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(61.5616, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 43.7232, 105.2849]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 9
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.3491, 31.3491]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.3491, 31.3491]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 10--------------
+Training for epoch 10.......
+train_loss:  tensor(0.0010, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[10.5526,  3.5986]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[186.7042,  67.0074]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 10
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.3787, 31.3787]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.3787, 31.3787]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 11--------------
+Training for epoch 11.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 32.5797, -11.6058]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(75.3052, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-16.8215,  58.4837]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 11
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.4010, 31.4010]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.4010, 31.4010]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 12--------------
+Training for epoch 12.......
+train_loss:  tensor(152.8200, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 37.0055, 189.8255]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(4.0156, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[1.8005, 5.7979]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 12
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.3682, 31.3682]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.3682, 31.3682]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 13--------------
+Training for epoch 13.......
+train_loss:  tensor(27.9094, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[29.0958, 57.0052]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[  79.6112, -158.7768]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 13
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.4201, 31.4201]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.4201, 31.4201]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 14--------------
+Training for epoch 14.......
+train_loss:  tensor(5.5477, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[36.3781, 41.9219]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[107.2025,  48.2601]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 14
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.5193, 31.5193]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.5193, 31.5193]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 15--------------
+Training for epoch 15.......
+train_loss:  tensor(28.8147, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-72.8151, -44.0004]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(154.2056, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-64.5551,  89.6506]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 15
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.4087, 31.4087]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.4087, 31.4087]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 16--------------
+Training for epoch 16.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[94.0653, 27.9899]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[113.4649,   7.8544]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 16
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.5023, 31.5023]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.5023, 31.5023]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 17--------------
+Training for epoch 17.......
+train_loss:  tensor(100.9830, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-29.4754,  71.5076]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(55.1474, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-18.9182,  36.2291]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 17
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.3953, 31.3953]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.3953, 31.3953]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 18--------------
+Training for epoch 18.......
+train_loss:  tensor(158.5685, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-21.2796, 137.2889]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(27.0657, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[26.7230, 53.7887]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 18
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.3737, 31.3737]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.3737, 31.3737]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 19--------------
+Training for epoch 19.......
+train_loss:  tensor(97.8323, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-36.1565,  61.6758]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 30.4518, -70.4257]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 19
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.3158, 31.3158]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.3158, 31.3158]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 20--------------
+Training for epoch 20.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[145.3260, -27.9175]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(32.9722, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[52.7048, 85.6771]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 20
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.1733, 31.1733]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.1733, 31.1733]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 21--------------
+Training for epoch 21.......
+train_loss:  tensor(124.4903, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-17.4879, 107.0025]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(6.5739, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 9.7609, 16.3334]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 21
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.1683, 31.1683]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.1683, 31.1683]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 22--------------
+Training for epoch 22.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 67.3264, -65.5905]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(2.9869, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[37.9720, 40.9071]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 22
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.0243, 31.0243]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.0243, 31.0243]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 23--------------
+Training for epoch 23.......
+train_loss:  tensor(11.1282, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[30.4189, 41.5470]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(52.5194, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 55.6446, 108.1640]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 23
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9846, 30.9846]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9846, 30.9846]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 24--------------
+Training for epoch 24.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 98.0351, -16.5617]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(122.6621, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 24.7675, 147.4297]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 24
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9675, 30.9675]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9675, 30.9675]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 25--------------
+Training for epoch 25.......
+train_loss:  tensor(67.6356, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-2.9012, 64.7344]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 51.3501, -13.0623]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 25
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9809, 30.9809]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9809, 30.9809]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 26--------------
+Training for epoch 26.......
+train_loss:  tensor(70.6872, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-12.2033,  58.4839]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(40.4896, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[19.3861, 59.8757]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 26
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9559, 30.9559]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9559, 30.9559]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 27--------------
+Training for epoch 27.......
+train_loss:  tensor(10.3984, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[106.7924, 117.1908]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(1.2040e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[35.1672, 23.8391]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 27
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9631, 30.9631]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9631, 30.9631]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 28--------------
+Training for epoch 28.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-14.7673, -62.0897]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(64.7818, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 45.6868, 110.4686]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 28
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.0029, 31.0029]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.0029, 31.0029]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 29--------------
+Training for epoch 29.......
+train_loss:  tensor(72.9621, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-11.4671,  61.4950]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 11.5681, -55.8223]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 29
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.0107, 31.0107]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[31.0107, 31.0107]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 30--------------
+Training for epoch 30.......
+train_loss:  tensor(0.0002, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[126.5746, 117.8927]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[114.5672,  80.9579]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 30
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9948, 30.9948]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9948, 30.9948]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 31--------------
+Training for epoch 31.......
+train_loss:  tensor(137.8234, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-35.0340, 102.7894]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(2.6822e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[86.4941, 75.9697]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 31
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9655, 30.9655]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9655, 30.9655]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 32--------------
+Training for epoch 32.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[169.6906,  49.2846]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 54.3293, -37.0384]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 32
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9709, 30.9709]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9709, 30.9709]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 33--------------
+Training for epoch 33.......
+train_loss:  tensor(75.7914, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-36.5067,  39.2847]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[132.8496,   4.4611]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 33
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9747, 30.9747]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9747, 30.9747]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 34--------------
+Training for epoch 34.......
+train_loss:  tensor(88.6664, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 15.5680, 104.2344]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 36.0943, -43.1239]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 34
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9670, 30.9670]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9670, 30.9670]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 35--------------
+Training for epoch 35.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[87.4363,  9.4090]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(1.9180, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[49.7712, 51.5303]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 35
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 36--------------
+Training for epoch 36.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[  7.7560, -60.1278]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(101.0706, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 10.7942, 111.8648]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 36
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9517, 30.9517]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9517, 30.9517]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 37--------------
+Training for epoch 37.......
+train_loss:  tensor(0.1739, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[66.9833, 65.3223]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 15.0083, -30.5495]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 37
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9479, 30.9479]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9479, 30.9479]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 38--------------
+Training for epoch 38.......
+train_loss:  tensor(46.9714, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-10.9414,  36.0300]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 17.1300, -20.8309]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 38
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9587, 30.9587]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9587, 30.9587]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 39--------------
+Training for epoch 39.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-11.9406, -62.1020]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[101.1663, -65.3355]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 39
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9769, 30.9769]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9769, 30.9769]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 40--------------
+Training for epoch 40.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[153.7435, 110.9358]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(69.3137, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 42.2254, 111.5391]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 40
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9633, 30.9633]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9633, 30.9633]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 41--------------
+Training for epoch 41.......
+train_loss:  tensor(29.8075, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-25.6294,   4.1780]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[89.7752, 39.3933]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 41
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9284, 30.9284]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9284, 30.9284]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 42--------------
+Training for epoch 42.......
+train_loss:  tensor(61.5154, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-10.7349,  50.7806]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[124.6119,  86.3885]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 42
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9389, 30.9389]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9389, 30.9389]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 43--------------
+Training for epoch 43.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 12.5455, -65.0071]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[127.0417,  77.1156]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 43
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9050, 30.9050]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9050, 30.9050]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 44--------------
+Training for epoch 44.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 69.7723, -19.0754]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[122.1456,  22.3094]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 44
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.8995, 30.8995]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.8995, 30.8995]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 45--------------
+Training for epoch 45.......
+train_loss:  tensor(2.9806, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[35.6113, 38.5397]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[167.7146, -51.5128]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 45
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9279, 30.9279]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9279, 30.9279]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 46--------------
+Training for epoch 46.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[74.8036, 55.8093]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(145.8742, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-68.6017,  77.2725]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 46
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9058, 30.9058]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9058, 30.9058]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 47--------------
+Training for epoch 47.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[97.4473, -1.8464]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(11.2573, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[22.8558, 34.1130]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 47
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9063, 30.9063]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9063, 30.9063]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 48--------------
+Training for epoch 48.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[111.1579,  53.1805]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[110.2976, -53.2186]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 48
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.8955, 30.8955]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.8955, 30.8955]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 49--------------
+Training for epoch 49.......
+train_loss:  tensor(30.3197, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-9.2450, 21.0747]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[68.0266,  9.1658]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 49
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9571, 30.9571]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9571, 30.9571]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 50--------------
+Training for epoch 50.......
+train_loss:  tensor(34.6635, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-9.3567, 25.3068]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(3.5763e-07, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[72.8811, 58.0041]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 50
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 51--------------
+Training for epoch 51.......
+train_loss:  tensor(9.2882, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[83.3991, 92.6872]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(24.9524, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[38.1054, 63.0578]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 51
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 52--------------
+Training for epoch 52.......
+train_loss:  tensor(24.1915, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[41.2931, 65.4846]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[124.2494,  17.5103]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 52
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 53--------------
+Training for epoch 53.......
+train_loss:  tensor(66.0774, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[32.5602, 98.6377]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(34.7137, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[29.3793, 64.0930]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 53
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 54--------------
+Training for epoch 54.......
+train_loss:  tensor(192.3158, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-74.2221, 118.0937]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 65.4008, -92.1633]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 54
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 55--------------
+Training for epoch 55.......
+train_loss:  tensor(0.0010, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[54.7748, 47.8586]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(9.1791e-06, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 7.5189, -4.0743]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 55
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 56--------------
+Training for epoch 56.......
+train_loss:  tensor(38.0686, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 1.0046, 39.0732]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[177.9903,  -2.1721]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 56
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 57--------------
+Training for epoch 57.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[109.2882,  25.6125]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(1.1921e-07, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[48.4283, 31.9767]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 57
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 58--------------
+Training for epoch 58.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[60.9589, 10.0316]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(48.6067, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-66.6105, -18.0038]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 58
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 59--------------
+Training for epoch 59.......
+train_loss:  tensor(45.4372, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[52.9582, 98.3954]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(63.5351, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-41.0322,  22.5029]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 59
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 60--------------
+Training for epoch 60.......
+train_loss:  tensor(101.5534, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-60.2092,  41.3442]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(69.3074, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 4.1188, 73.4262]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 60
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 61--------------
+Training for epoch 61.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[58.6098, 25.6623]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(130.4841, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-55.4584,  75.0256]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 61
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9585, 30.9585]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9585, 30.9585]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 62--------------
+Training for epoch 62.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[54.4055, 35.5472]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(64.9810, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 56.1091, 121.0902]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 62
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 63--------------
+Training for epoch 63.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 13.6139, -16.5073]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(1.3113e-06, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[79.4411, 65.8964]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 63
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 64--------------
+Training for epoch 64.......
+train_loss:  tensor(55.5022, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-49.5423,   5.9599]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[111.9113,  72.2605]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 64
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 65--------------
+Training for epoch 65.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[85.8456, 47.5058]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 84.8204, -39.8919]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 65
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 66--------------
+Training for epoch 66.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[98.7625, 40.6907]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[90.0156, 61.7064]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 66
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 67--------------
+Training for epoch 67.......
+train_loss:  tensor(113.9534, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-15.7545,  98.1989]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[96.1447, 32.2398]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 67
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 68--------------
+Training for epoch 68.......
+train_loss:  tensor(50.0973, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 82.8442, 132.9415]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(42.1550, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[20.0680, 62.2229]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 68
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9586, 30.9586]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9586, 30.9586]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 69--------------
+Training for epoch 69.......
+train_loss:  tensor(101.7616, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-34.4705,  67.2911]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0.3868, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[48.8725, 48.1222]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 69
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9586, 30.9586]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9586, 30.9586]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 70--------------
+Training for epoch 70.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 48.4616, -12.9529]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-10.0026, -38.9898]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 70
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9586, 30.9586]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9586, 30.9586]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 71--------------
+Training for epoch 71.......
+train_loss:  tensor(108.8375, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-83.1147,  25.7228]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(72.9348, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[20.4273, 93.3621]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 71
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9586, 30.9586]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9586, 30.9586]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 72--------------
+Training for epoch 72.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[127.7028, -29.9813]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[96.9146, 53.7886]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 72
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9585, 30.9585]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9585, 30.9585]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 73--------------
+Training for epoch 73.......
+train_loss:  tensor(6.3825, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[26.1226, 32.5034]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[72.5219, 28.3817]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 73
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9586, 30.9586]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9586, 30.9586]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 74--------------
+Training for epoch 74.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[89.8198, 18.2866]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[74.9760,  2.6613]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 74
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9586, 30.9586]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9586, 30.9586]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 75--------------
+Training for epoch 75.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[86.2102, 28.9598]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0.0014, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[98.3978, 91.7964]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 75
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9586, 30.9586]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9586, 30.9586]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 76--------------
+Training for epoch 76.......
+train_loss:  tensor(85.8012, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 17.5306, 103.3318]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(32.6406, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-39.3096,  -6.6690]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 76
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 77--------------
+Training for epoch 77.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[51.7808, 10.1481]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(41.1132, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[32.1200, 73.2332]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 77
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9586, 30.9586]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9586, 30.9586]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 78--------------
+Training for epoch 78.......
+train_loss:  tensor(52.4207, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-23.3940,  29.0267]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[111.1813,  53.9310]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 78
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9586, 30.9586]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9586, 30.9586]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 79--------------
+Training for epoch 79.......
+train_loss:  tensor(126.5212, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[  6.6327, 133.1540]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 93.7339, -96.7017]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 79
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 80--------------
+Training for epoch 80.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 37.2349, -14.0948]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0.0450, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[39.5942, 36.5147]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 80
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 81--------------
+Training for epoch 81.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[103.4212, -18.1446]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(60.1311, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-20.0631,  40.0679]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 81
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9583, 30.9583]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 82--------------
+Training for epoch 82.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 29.4421, -64.0716]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(98.9174, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-20.1140,  78.8034]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 82
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 83--------------
+Training for epoch 83.......
+train_loss:  tensor(30.7207, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[48.4859, 79.2066]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 57.7939, -53.1314]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 83
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 84--------------
+Training for epoch 84.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[90.9795, 66.5532]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(1.5974e-05, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[26.0703, 15.0240]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 84
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9585, 30.9585]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9585, 30.9585]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 85--------------
+Training for epoch 85.......
+train_loss:  tensor(1.7881e-06, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-45.0475, -58.2722]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(165.6588, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-41.4773, 124.1815]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 85
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 86--------------
+Training for epoch 86.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[172.3993, -25.2786]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(137.0329, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-20.6493, 116.3836]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 86
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 87--------------
+Training for epoch 87.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[130.5658, -67.9564]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(169.9573, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-66.8035, 103.1538]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 87
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 88--------------
+Training for epoch 88.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 29.6192, -17.2342]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(2.1458e-06, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[20.7450,  7.6714]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 88
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 89--------------
+Training for epoch 89.......
+train_loss:  tensor(121.7771, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-24.2694,  97.5076]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[90.3513, 62.4042]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 89
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 90--------------
+Training for epoch 90.......
+train_loss:  tensor(20.8883, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[26.2277, 47.1161]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[46.4850, -4.2299]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 90
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 91--------------
+Training for epoch 91.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[70.5906, 44.7569]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 148.5392, -106.7765]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 91
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 92--------------
+Training for epoch 92.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[45.2851, 21.3041]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(39.2939, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-2.6441, 36.6498]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 92
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 93--------------
+Training for epoch 93.......
+train_loss:  tensor(5.3152, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[83.2795, 88.5898]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(36.1616, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[42.1181, 78.2797]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 93
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 94--------------
+Training for epoch 94.......
+train_loss:  tensor(0.0077, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[14.0905,  9.2239]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0.0498, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-3.1275, -6.1017]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 94
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9584, 30.9584]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 95--------------
+Training for epoch 95.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 12.7285, -47.6789]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(18.5022, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[11.4857, 29.9878]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 95
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9587, 30.9587]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9587, 30.9587]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 96--------------
+Training for epoch 96.......
+train_loss:  tensor(0., device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[173.2380, -62.7115]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(72.8978, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 34.1455, 107.0433]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 96
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9586, 30.9586]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9586, 30.9586]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 97--------------
+Training for epoch 97.......
+train_loss:  tensor(14.5565, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[28.5940, 43.1505]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(0.5053, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[19.2304, 18.8111]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 97
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9587, 30.9587]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9587, 30.9587]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 98--------------
+Training for epoch 98.......
+train_loss:  tensor(52.9745, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 74.0532, 127.0277]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(37.1924, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-59.7404, -22.5479]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 98
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9587, 30.9587]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9587, 30.9587]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 99--------------
+Training for epoch 99.......
+train_loss:  tensor(8.9222, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[38.5281, 47.4501]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(127.1080, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[-35.0030,  92.1050]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 99
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9588, 30.9588]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9588, 30.9588]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+--------------Epoch: 100--------------
+Training for epoch 100.......
+train_loss:  tensor(5.8526, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[17.4945, 23.3442]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+train_loss:  tensor(22.9892, device='cuda:0', grad_fn=<NllLossBackward0>)
+train_logits:  tensor([[ 6.8725, 29.8617]], device='cuda:0', grad_fn=<ViewBackward0>)
+label:  tensor([0], device='cuda:0')
+.......Validating for epoch 100
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9586, 30.9586]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+dev_loss:  tensor(0.6931, device='cuda:0')
+dev_logits:  tensor([[30.9586, 30.9586]], device='cuda:0')
+label:  tensor([1], device='cuda:0')
+Training completed in 0:35:26.711393
