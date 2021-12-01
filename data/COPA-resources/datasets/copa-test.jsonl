@@ -1,0 +1,500 @@
+{"idx":501,"question":"cause","label":0,"premise":"The item was packaged in bubble wrap.","choice1":"It was fragile.","choice2":"It was small."}
+{"idx":502,"question":"effect","label":0,"premise":"I emptied my pockets.","choice1":"I retrieved a ticket stub.","choice2":"I found a weapon."}
+{"idx":503,"question":"effect","label":1,"premise":"Termites invaded the house.","choice1":"The termites disappeared from the house.","choice2":"The termites ate through the wood in the house."}
+{"idx":504,"question":"effect","label":0,"premise":"The travelers reached the border.","choice1":"The patrol agent checked their passports.","choice2":"The patrol agent accused them of smuggling."}
+{"idx":505,"question":"cause","label":0,"premise":"The office was closed.","choice1":"It was a holiday.","choice2":"It was summer."}
+{"idx":506,"question":"cause","label":1,"premise":"The girl ran out of energy.","choice1":"She played checkers.","choice2":"She jumped rope."}
+{"idx":507,"question":"cause","label":1,"premise":"The woman lost her place in line.","choice1":"More people entered the line.","choice2":"She stepped out of the line."}
+{"idx":508,"question":"cause","label":1,"premise":"The girl pinched her nose.","choice1":"The baby drooled on her bib.","choice2":"The baby soiled her diaper."}
+{"idx":509,"question":"effect","label":0,"premise":"The band played their hit song.","choice1":"The audience clapped along to the music.","choice2":"The audience politely listened in silence."}
+{"idx":510,"question":"effect","label":1,"premise":"The girl wanted to thank her math teacher.","choice1":"The girl stayed after school for detention.","choice2":"The girl brought the teacher an apple."}
+{"idx":511,"question":"cause","label":0,"premise":"The young campers felt scared.","choice1":"Their camp counselor told them a ghost story.","choice2":"They toasted marshmallows on the campfire."}
+{"idx":512,"question":"effect","label":1,"premise":"The man hit his head.","choice1":"He got lost in thought.","choice2":"He got a concussion."}
+{"idx":513,"question":"cause","label":0,"premise":"The check I wrote bounced.","choice1":"My bank account was empty.","choice2":"I earned a pay raise."}
+{"idx":514,"question":"effect","label":0,"premise":"The man's email inbox was full of spam.","choice1":"He deleted the spam.","choice2":"He sent out a mass email."}
+{"idx":515,"question":"cause","label":0,"premise":"The sailor was quarantined.","choice1":"He was exposed to the disease.","choice2":"He recovered from the disease."}
+{"idx":516,"question":"cause","label":0,"premise":"The girl memorized the code.","choice1":"She recited it to herself.","choice2":"She forgot to write it down."}
+{"idx":517,"question":"effect","label":1,"premise":"I poured the water into the glass.","choice1":"The water quenched my thirst.","choice2":"The glass became full."}
+{"idx":518,"question":"cause","label":1,"premise":"The man remained silent when his friend finishing speaking.","choice1":"He wanted to offer his friend support.","choice2":"He was thinking about his friend's words."}
+{"idx":519,"question":"effect","label":0,"premise":"The accident was my fault.","choice1":"I felt guilty.","choice2":"I pressed charges."}
+{"idx":520,"question":"cause","label":1,"premise":"The chain came apart.","choice1":"The chain was wrapped around a tire.","choice2":"There was a broken link in the chain."}
+{"idx":521,"question":"cause","label":0,"premise":"The couple decided to compromise.","choice1":"They grew tired of arguing.","choice2":"They avoided discussing the problem."}
+{"idx":522,"question":"effect","label":0,"premise":"The woman decided to run for public office.","choice1":"She hired a campaign manager.","choice2":"She testified in court."}
+{"idx":523,"question":"effect","label":0,"premise":"The man anticipated cold weather on his trip.","choice1":"He packed warm clothing in his suitcase.","choice2":"He travelled with a big suitcase."}
+{"idx":524,"question":"effect","label":0,"premise":"The student knew the answer to the question.","choice1":"He raised his hand.","choice2":"He goofed off."}
+{"idx":525,"question":"cause","label":0,"premise":"The man's eyes watered.","choice1":"Dust got into his eyes.","choice2":"He put goggles over his eyes."}
+{"idx":526,"question":"effect","label":0,"premise":"The player won five games in a row.","choice1":"Her opponent accused her of cheating.","choice2":"Her opponent felt sorry for her."}
+{"idx":527,"question":"cause","label":0,"premise":"The teacher tore up the student's exam.","choice1":"He caught the student cheating.","choice2":"The student's answers were incorrect."}
+{"idx":528,"question":"cause","label":1,"premise":"I paused to stop talking.","choice1":"I lost my voice.","choice2":"I ran out of breath."}
+{"idx":529,"question":"cause","label":0,"premise":"The frozen food thawed.","choice1":"I put it in the microwave.","choice2":"I covered it with plastic wrap."}
+{"idx":530,"question":"cause","label":1,"premise":"The employee faked sick.","choice1":"He had stomach cramps.","choice2":"He wanted a day off."}
+{"idx":531,"question":"cause","label":1,"premise":"The girl landed in the pool.","choice1":"She ran on the pool deck.","choice2":"She jumped off the diving board."}
+{"idx":532,"question":"cause","label":0,"premise":"The movie tickets sold out.","choice1":"It was opening day for the movie.","choice2":"The movie received poor reviews."}
+{"idx":533,"question":"effect","label":1,"premise":"The man lost weight.","choice1":"People isolated him.","choice2":"People complimented him."}
+{"idx":534,"question":"cause","label":1,"premise":"The girl's hands became blistered.","choice1":"She typed up a letter.","choice2":"She climbed up a rope."}
+{"idx":535,"question":"effect","label":0,"premise":"The circus performer juggled while riding a unicycle.","choice1":"The audience cheered in astonishment.","choice2":"The acrobat swung from a trapeze."}
+{"idx":536,"question":"cause","label":0,"premise":"I lost my patience.","choice1":"My friend kept me waiting.","choice2":"My friend arrived on time."}
+{"idx":537,"question":"effect","label":1,"premise":"The warring countries wanted peace.","choice1":"They developed nuclear weapons.","choice2":"They negotiated a treaty."}
+{"idx":538,"question":"effect","label":0,"premise":"The man took sleeping medication.","choice1":"He became drowsy.","choice2":"He ran a fever."}
+{"idx":539,"question":"effect","label":1,"premise":"The woman bumped into the sofa.","choice1":"The leg of the sofa came loose.","choice2":"She bruised her knee."}
+{"idx":540,"question":"effect","label":0,"premise":"The boy squeezed the balloon.","choice1":"The balloon popped.","choice2":"The balloon flew away."}
+{"idx":541,"question":"effect","label":0,"premise":"They travelers checked into their hotel room.","choice1":"They unpacked their suitcases.","choice2":"They went to the airport."}
+{"idx":542,"question":"effect","label":1,"premise":"I bit into the peach.","choice1":"The peach bruised.","choice2":"Juice spilled out."}
+{"idx":543,"question":"cause","label":0,"premise":"My hands became sticky.","choice1":"I ate a doughnut.","choice2":"I had a sweet tooth."}
+{"idx":544,"question":"effect","label":0,"premise":"I pushed the door.","choice1":"The door opened.","choice2":"The door locked."}
+{"idx":545,"question":"cause","label":1,"premise":"Activists boycotted the products.","choice1":"The products were tested for quality assurance.","choice2":"The products were manufactured through child labor."}
+{"idx":546,"question":"effect","label":1,"premise":"I drilled a hole in the wall.","choice1":"A mouse crawled out of the hole.","choice2":"Dust blew out of the hole."}
+{"idx":547,"question":"cause","label":0,"premise":"The woman felt envious of her sister.","choice1":"Her sister was happy.","choice2":"Her sister got divorced."}
+{"idx":548,"question":"effect","label":1,"premise":"I spilled wine on my shirt.","choice1":"I put on an apron.","choice2":"I changed my shirt."}
+{"idx":549,"question":"cause","label":1,"premise":"The cashier opened the cash register.","choice1":"The customer searched his wallet.","choice2":"The customer handed her money."}
+{"idx":550,"question":"effect","label":0,"premise":"The street musician attracted a crowd.","choice1":"People gave him change.","choice2":"He sent the crowd away."}
+{"idx":551,"question":"cause","label":0,"premise":"The little boy cried to his babysitter.","choice1":"He missed his parents.","choice2":"It was snack time."}
+{"idx":552,"question":"effect","label":0,"premise":"The pilot's radar detected a storm.","choice1":"The pilot navigated away from the storm.","choice2":"The pilot flew through the storm."}
+{"idx":553,"question":"effect","label":1,"premise":"The tree shed its leaves.","choice1":"The leaves turned colors.","choice2":"The leaves accumulated on the ground."}
+{"idx":554,"question":"effect","label":1,"premise":"The boy was in a mischievous mood.","choice1":"He decided to play a card game with his sister.","choice2":"He decided to play a practical joke on his sister."}
+{"idx":555,"question":"effect","label":1,"premise":"The child complained that he had to go to the bathroom.","choice1":"His father gave him a soda to drink.","choice2":"His father stopped the car at a gas station."}
+{"idx":556,"question":"effect","label":1,"premise":"The child sprinkled fish food into the tank.","choice1":"The fish leapt out of the tank.","choice2":"The fish swam towards the food."}
+{"idx":557,"question":"effect","label":0,"premise":"The woman's political views changed.","choice1":"She switched her party affiliation.","choice2":"She engaged in a protest."}
+{"idx":558,"question":"effect","label":1,"premise":"The bathroom sink was clogged.","choice1":"I turned on the faucet.","choice2":"I poured drain cleaner into it."}
+{"idx":559,"question":"cause","label":0,"premise":"The passengers got off the train.","choice1":"The train arrived at the station.","choice2":"The train blared its whistle."}
+{"idx":560,"question":"effect","label":1,"premise":"The man pressed down on the moist flap of the envelope.","choice1":"He put a stamp on the envelope.","choice2":"He sealed the envelope shut."}
+{"idx":561,"question":"cause","label":1,"premise":"The friends lost touch.","choice1":"They enjoyed each other's company.","choice2":"They moved to different cities."}
+{"idx":562,"question":"effect","label":0,"premise":"The accountant mismanaged the company's funds.","choice1":"She was fired from her position.","choice2":"She went on maternity leave."}
+{"idx":563,"question":"cause","label":1,"premise":"I looked at the clock.","choice1":"I heard the clock tick.","choice2":"I wanted to check the time."}
+{"idx":564,"question":"cause","label":0,"premise":"My hand cramped up.","choice1":"I wrote the essay by hand.","choice2":"My wife and I held hands."}
+{"idx":565,"question":"cause","label":1,"premise":"The bolt tightened.","choice1":"I replaced the bolt.","choice2":"I twisted the wrench."}
+{"idx":566,"question":"effect","label":0,"premise":"The couple signed a lease for an apartment.","choice1":"The couple moved into the apartment.","choice2":"The city condemned the apartment."}
+{"idx":567,"question":"cause","label":0,"premise":"The woman sat outside on the porch.","choice1":"She wanted to watch the sunset.","choice2":"She thought she saw lightning."}
+{"idx":568,"question":"cause","label":0,"premise":"The man wore a lifejacket in the water.","choice1":"He couldn't swim.","choice2":"The water was shallow."}
+{"idx":569,"question":"effect","label":1,"premise":"The woman made a typo in the word processor.","choice1":"She deleted the document.","choice2":"She hit the backspace key."}
+{"idx":570,"question":"cause","label":1,"premise":"The girl bragged to her friends.","choice1":"She got a bad grade.","choice2":"She won a contest."}
+{"idx":571,"question":"cause","label":0,"premise":"The lawn was muddy.","choice1":"It poured overnight.","choice2":"It was full of weeds."}
+{"idx":572,"question":"cause","label":1,"premise":"The woman overslept.","choice1":"She stayed the night in a hotel.","choice2":"She forgot to set her alarm clock."}
+{"idx":573,"question":"cause","label":1,"premise":"The man put on sunscreen.","choice1":"He sat in the shade.","choice2":"He went to the beach."}
+{"idx":574,"question":"effect","label":1,"premise":"The researchers proved the theory.","choice1":"The researchers retracted the theory.","choice2":"Individuals accepted the theory."}
+{"idx":575,"question":"cause","label":1,"premise":"The fans at the game booed.","choice1":"The game went into overtime.","choice2":"The referee made a bad call."}
+{"idx":576,"question":"effect","label":1,"premise":"I entered my combination on the lock.","choice1":"I shut the lock.","choice2":"The lock popped open."}
+{"idx":577,"question":"effect","label":1,"premise":"The crowd intensified.","choice1":"The father handed his son some money.","choice2":"The father grabbed his son's hand."}
+{"idx":578,"question":"effect","label":1,"premise":"The snow was blocking the driveway.","choice1":"I gathered the snow into a snowball.","choice2":"I shoveled the snow out of the way."}
+{"idx":579,"question":"effect","label":0,"premise":"The kayakers paddled their oars.","choice1":"The kayak reached the shore.","choice2":"The kayak hit a wave."}
+{"idx":580,"question":"effect","label":1,"premise":"The girl lost control of her bike.","choice1":"She let go of the handlebars.","choice2":"She crashed into a fence."}
+{"idx":581,"question":"effect","label":1,"premise":"I turned on the fan.","choice1":"Water sprinkled onto my skin.","choice2":"I felt cool air pass over me."}
+{"idx":582,"question":"cause","label":1,"premise":"The surfers returned to the beach.","choice1":"They were drenched.","choice2":"They saw a shark."}
+{"idx":583,"question":"effect","label":0,"premise":"I pulled the drain plug in the bathtub.","choice1":"The water drained out of the tub.","choice2":"The water splashed onto the floor."}
+{"idx":584,"question":"effect","label":1,"premise":"The husband felt guilty about cheating on his wife.","choice1":"He accused her of infidelity.","choice2":"He confessed his infidelity to her."}
+{"idx":585,"question":"cause","label":1,"premise":"The ink on the poster smeared.","choice1":"I waited for the ink to dry.","choice2":"I spilled water on the poster."}
+{"idx":586,"question":"cause","label":0,"premise":"The child woke up screaming.","choice1":"He had a nightmare.","choice2":"He wet the bed."}
+{"idx":587,"question":"effect","label":1,"premise":"The boy put his feet up on the table.","choice1":"His father sat down at the table.","choice2":"His father lectured him."}
+{"idx":588,"question":"cause","label":0,"premise":"My friend turned his head in my direction.","choice1":"I shouted his name.","choice2":"I waved my arms."}
+{"idx":589,"question":"effect","label":0,"premise":"The government oppressed its citizens.","choice1":"The citizens staged a revolt.","choice2":"The citizens registered to vote."}
+{"idx":590,"question":"effect","label":1,"premise":"The boy was lost in the woods.","choice1":"He pitched a tent.","choice2":"He screamed for help."}
+{"idx":591,"question":"cause","label":1,"premise":"The woman travelled abroad.","choice1":"She wanted to learn how to draw.","choice2":"She wanted to learn about other cultures."}
+{"idx":592,"question":"cause","label":0,"premise":"The man was jealous of his coworker.","choice1":"His coworker got a promotion.","choice2":"His coworker worked late."}
+{"idx":593,"question":"cause","label":0,"premise":"The man witnessed aliens.","choice1":"He was hallucinating.","choice2":"He was meditating."}
+{"idx":594,"question":"cause","label":0,"premise":"The man's hair turned blonde.","choice1":"He put bleach in it.","choice2":"He put shampoo in it."}
+{"idx":595,"question":"cause","label":1,"premise":"The artist created new work.","choice1":"She critiqued her previous work.","choice2":"She felt a stroke of inspiration."}
+{"idx":596,"question":"cause","label":1,"premise":"The son moved away from home.","choice1":"He was discharged from the military.","choice2":"He was going to college."}
+{"idx":597,"question":"cause","label":1,"premise":"Books fell out of the bookcase.","choice1":"The shelves were covered with dust.","choice2":"An earthquake shook the bookcase."}
+{"idx":598,"question":"effect","label":1,"premise":"The electricity in my house shut off.","choice1":"I turned on a light.","choice2":"I reset the circuit breaker."}
+{"idx":599,"question":"cause","label":1,"premise":"We rode the roller coaster.","choice1":"It looked scary.","choice2":"It looked fun."}
+{"idx":600,"question":"cause","label":1,"premise":"The bag of popcorn began to pop.","choice1":"I poured butter into the bag.","choice2":"I heated it in the microwave."}
+{"idx":601,"question":"effect","label":0,"premise":"A tree fell on the power line.","choice1":"The electricity in the neighborhood went out.","choice2":"The forecast predicted heavy winds."}
+{"idx":602,"question":"effect","label":1,"premise":"The speaker made politically incorrect comments.","choice1":"He bored the audience.","choice2":"He offended the audience."}
+{"idx":603,"question":"effect","label":1,"premise":"I pricked myself with the pin.","choice1":"A bead of sweat dripped from my face.","choice2":"A drop of blood formed on my finger."}
+{"idx":604,"question":"cause","label":1,"premise":"The fish floated on the surface of the tank.","choice1":"It was hungry.","choice2":"It was dead."}
+{"idx":605,"question":"cause","label":0,"premise":"The man's voice sounded hoarse.","choice1":"He had a cold.","choice2":"He quit smoking."}
+{"idx":606,"question":"cause","label":0,"premise":"The elevator doors opened.","choice1":"The elevator arrived at the designated floor.","choice2":"The elevator got stuck between floors."}
+{"idx":607,"question":"cause","label":1,"premise":"The teenager snuck out of the house.","choice1":"He lied to his parents.","choice2":"His parents grounded him."}
+{"idx":608,"question":"cause","label":0,"premise":"The bathroom flooded.","choice1":"The toilet overflowed.","choice2":"The water heater broke."}
+{"idx":609,"question":"cause","label":1,"premise":"The puppy stayed near its owner.","choice1":"The owner put a collar on the puppy.","choice2":"The owner kept the puppy on a leash."}
+{"idx":610,"question":"cause","label":1,"premise":"The man caught his reflection.","choice1":"He stood under the sprawling tree.","choice2":"He stood over the calm lake."}
+{"idx":611,"question":"effect","label":0,"premise":"I missed my girlfriend's phone call.","choice1":"I called her back.","choice2":"I met her for dinner."}
+{"idx":612,"question":"cause","label":0,"premise":"The family searched the neighborhood.","choice1":"Their dog ran away from home.","choice2":"Expensive jewelry was missing from their home."}
+{"idx":613,"question":"cause","label":0,"premise":"I saw my breath when I exhaled.","choice1":"The weather was chilly.","choice2":"My chest felt tight."}
+{"idx":614,"question":"cause","label":0,"premise":"The employees formed a union.","choice1":"They wanted better working conditions.","choice2":"Their employer raised their wages."}
+{"idx":615,"question":"effect","label":1,"premise":"I baked an apple pie.","choice1":"A rotting smell filled the kitchen.","choice2":"A warm aroma filled the kitchen."}
+{"idx":616,"question":"cause","label":0,"premise":"The woman struggled to walk.","choice1":"She wore high heels.","choice2":"She took off her shoes."}
+{"idx":617,"question":"cause","label":0,"premise":"Steam rose off of the pot of water.","choice1":"The water boiled.","choice2":"I covered the pot."}
+{"idx":618,"question":"effect","label":0,"premise":"All my socks were in the laundry.","choice1":"I wore sandals.","choice2":"I wore boots."}
+{"idx":619,"question":"effect","label":0,"premise":"The politician's argument was considered absurd.","choice1":"He lost the support of voters.","choice2":"He was accused of corruption."}
+{"idx":620,"question":"effect","label":1,"premise":"Everyone disapproved of the couple's engagement.","choice1":"The couple got pregnant.","choice2":"The couple eloped."}
+{"idx":621,"question":"cause","label":1,"premise":"The building was dedicated to the millionaire.","choice1":"The millionaire wanted the building torn down.","choice2":"The millionaire contributed the funds to build it."}
+{"idx":622,"question":"cause","label":0,"premise":"The sale associate accused the girl of stealing.","choice1":"The sales associate saw the girl put merchandise in her purse.","choice2":"The sales associate helped the girl find the purse she liked."}
+{"idx":623,"question":"effect","label":0,"premise":"The country declared war on the neighboring territory.","choice1":"Soldiers were sent out to fight.","choice2":"Soldiers were reunited with their families."}
+{"idx":624,"question":"effect","label":0,"premise":"The court upheld the controversial ruling.","choice1":"A riot broke loose in front of the courthouse.","choice2":"A couple exchanged vows in front of the courthouse."}
+{"idx":625,"question":"cause","label":1,"premise":"The girl smelled something burning.","choice1":"She took the cookies out of the jar.","choice2":"She left the cookies in the oven."}
+{"idx":626,"question":"effect","label":1,"premise":"The rain was pouring down.","choice1":"The storm worsened.","choice2":"I dashed to get inside."}
+{"idx":627,"question":"cause","label":1,"premise":"The building was evacuated.","choice1":"The elevator stopped functioning.","choice2":"The fire alarm went off."}
+{"idx":628,"question":"effect","label":1,"premise":"The father resented his son's alcoholism.","choice1":"The father bought his son a beer.","choice2":"The father kicked his son out of the house."}
+{"idx":629,"question":"cause","label":1,"premise":"The lawyer took the stairs up to her office.","choice1":"The secretary went home for the day.","choice2":"The elevator was out of order."}
+{"idx":630,"question":"cause","label":0,"premise":"The man became annoyed with his friend.","choice1":"His friend interrupted him.","choice2":"His friend bought him lunch."}
+{"idx":631,"question":"effect","label":0,"premise":"The girl handed her money to the cashier.","choice1":"The cashier gave the girl her change.","choice2":"The cashier forgot to give the girl a receipt."}
+{"idx":632,"question":"cause","label":0,"premise":"The woman was put in a wheelchair.","choice1":"She was paralyzed in an accident.","choice2":"She entered the hospital in a stretcher."}
+{"idx":633,"question":"cause","label":0,"premise":"Citizens hung the national flag up outside their homes.","choice1":"The country was commemorating its independence.","choice2":"The country was facing economic hardship."}
+{"idx":634,"question":"effect","label":0,"premise":"The team lost the tournament.","choice1":"They disappointed their fans.","choice2":"They inspired their fans."}
+{"idx":635,"question":"effect","label":0,"premise":"My friend pointed out that I had food stuck in my teeth.","choice1":"I felt embarrassed.","choice2":"I felt proud."}
+{"idx":636,"question":"cause","label":1,"premise":"The boy failed his history exam.","choice1":"He paid attention in class.","choice2":"He forgot to study."}
+{"idx":637,"question":"cause","label":0,"premise":"The downtown building collapsed.","choice1":"An earthquake hit the city.","choice2":"Crime rates in the city increased."}
+{"idx":638,"question":"effect","label":0,"premise":"The man's girlfriend broke up with him.","choice1":"He begged her to take him back.","choice2":"She introduced him to her parents."}
+{"idx":639,"question":"effect","label":1,"premise":"The two children simultaneously reached down to retrieve the ball.","choice1":"The ball rolled away.","choice2":"Their heads collided."}
+{"idx":640,"question":"cause","label":1,"premise":"The raccoon ransacked the garbage can.","choice1":"There was cardboard in the garbage can.","choice2":"The lid was off the garbage can."}
+{"idx":641,"question":"cause","label":1,"premise":"The boy sharpened the pencil.","choice1":"It was cheap.","choice2":"It was dull."}
+{"idx":642,"question":"cause","label":0,"premise":"The cashier denied the woman a refund for the dress.","choice1":"She lost her receipt.","choice2":"The dress didn't fit."}
+{"idx":643,"question":"effect","label":1,"premise":"The scratch in my skin was deep.","choice1":"It healed quickly.","choice2":"It left a scar."}
+{"idx":644,"question":"cause","label":1,"premise":"The man received strange looks from passengers on the train.","choice1":"He was staring at the ground.","choice2":"He was talking to himself."}
+{"idx":645,"question":"effect","label":0,"premise":"The child left crumbs on the floor.","choice1":"Ants crawled to the crumbs.","choice2":"The child put the bread away."}
+{"idx":646,"question":"cause","label":1,"premise":"The woman handed her sister a tissue.","choice1":"The woman's sister folded her hands.","choice2":"The woman's sister began to cry."}
+{"idx":647,"question":"cause","label":1,"premise":"The man took a mint.","choice1":"His lips were chapped.","choice2":"He worried about bad breath."}
+{"idx":648,"question":"cause","label":0,"premise":"The couple left early for the show.","choice1":"They anticipated traffic around the theatre.","choice2":"They got directions to the theatre."}
+{"idx":649,"question":"effect","label":1,"premise":"The woman stayed home from work.","choice1":"Her boss praised her.","choice2":"Her coworker covered for her."}
+{"idx":650,"question":"cause","label":0,"premise":"The man signed the activists' petition.","choice1":"He supported their cause.","choice2":"He denounced them as crazy."}
+{"idx":651,"question":"cause","label":0,"premise":"The actor's heart was fluttering before his performance.","choice1":"He had stage fright.","choice2":"He memorized his lines."}
+{"idx":652,"question":"effect","label":1,"premise":"I was lost.","choice1":"I counted my cash.","choice2":"I unfolded a map."}
+{"idx":653,"question":"effect","label":1,"premise":"The ripe fruit lingered in the sun.","choice1":"It was eaten.","choice2":"It shriveled up."}
+{"idx":654,"question":"cause","label":1,"premise":"The car broke down.","choice1":"I turned the ignition.","choice2":"The engine overheated."}
+{"idx":655,"question":"effect","label":1,"premise":"The man hurt his back.","choice1":"He went to see a psychiatrist.","choice2":"He stayed in bed for several days."}
+{"idx":656,"question":"cause","label":1,"premise":"I started a fire in the fireplace.","choice1":"I was out of firewood.","choice2":"It was cold in the house."}
+{"idx":657,"question":"cause","label":0,"premise":"The woman stopped jogging.","choice1":"She got a cramp in her side.","choice2":"She got a second wind."}
+{"idx":658,"question":"effect","label":0,"premise":"I knocked on my neighbor's door.","choice1":"My neighbor invited me in.","choice2":"My neighbor left her house."}
+{"idx":659,"question":"cause","label":0,"premise":"The woman sighed with frustration.","choice1":"Her husband misunderstood her concerns.","choice2":"Her husband kissed her goodbye."}
+{"idx":660,"question":"cause","label":0,"premise":"The teacher commended the student.","choice1":"The student answered the question correctly.","choice2":"The student hesitated to answer the question."}
+{"idx":661,"question":"effect","label":1,"premise":"The woman ran out of eggs.","choice1":"She went to the farm.","choice2":"She went to the supermarket."}
+{"idx":662,"question":"effect","label":1,"premise":"I encountered an old friend.","choice1":"I revealed a secret to him.","choice2":"I gave him a hug."}
+{"idx":663,"question":"cause","label":1,"premise":"The woman avoided going in the lake.","choice1":"She caught a fish.","choice2":"It looked contaminated."}
+{"idx":664,"question":"cause","label":0,"premise":"The student arrived to class soaking wet.","choice1":"His umbrella was broken.","choice2":"His bike was stolen."}
+{"idx":665,"question":"cause","label":1,"premise":"The cursor on the computer screen moved.","choice1":"The user clicked the mouse.","choice2":"The user shifted the mouse."}
+{"idx":666,"question":"cause","label":0,"premise":"The driver took a detour.","choice1":"An accident occurred on the main road.","choice2":"She followed the truck in front of her."}
+{"idx":667,"question":"effect","label":0,"premise":"I hung the wet linen on the outdoor clothesline.","choice1":"The linen dried.","choice2":"The linen stained."}
+{"idx":668,"question":"cause","label":0,"premise":"The woman put on her shades.","choice1":"The sunlight was bright.","choice2":"She hailed a cab."}
+{"idx":669,"question":"cause","label":1,"premise":"The man gazed at the night sky.","choice1":"He wished it were summer.","choice2":"He thought it was beautiful."}
+{"idx":670,"question":"effect","label":0,"premise":"I felt exhausted.","choice1":"I went to bed early.","choice2":"I stayed up all night."}
+{"idx":671,"question":"cause","label":1,"premise":"The man went to the barber.","choice1":"He was growing out his hair.","choice2":"His hair was getting long."}
+{"idx":672,"question":"cause","label":1,"premise":"The boy played mean tricks on his new classmate.","choice1":"The boy welcomed the new classmate.","choice2":"The boy disliked the new classmate."}
+{"idx":673,"question":"cause","label":0,"premise":"I craved a glass of milk.","choice1":"I was eating cookies.","choice2":"I was baking bread."}
+{"idx":674,"question":"effect","label":0,"premise":"It began to rain.","choice1":"The driver turned on the headlights.","choice2":"The driver shifted the car into reverse."}
+{"idx":675,"question":"effect","label":1,"premise":"The parking lot of the building was empty.","choice1":"I parked across the street.","choice2":"I parked near the entrance."}
+{"idx":676,"question":"cause","label":0,"premise":"The writer missed her deadline for the draft submission.","choice1":"She had writer's block.","choice2":"She edited the draft."}
+{"idx":677,"question":"cause","label":0,"premise":"The associate hung up on me.","choice1":"I asked to speak to a supervisor.","choice2":"I provided my identification number."}
+{"idx":678,"question":"effect","label":1,"premise":"The wind blew through the open window.","choice1":"The doorbell rang.","choice2":"The curtains shuddered."}
+{"idx":679,"question":"cause","label":1,"premise":"The electricity in my house shut off.","choice1":"I unplugged the lamp.","choice2":"I blew a fuse."}
+{"idx":680,"question":"cause","label":1,"premise":"The weightlifter grunted.","choice1":"He flexed his muscles in the mirror.","choice2":"He lifted the bar over his head."}
+{"idx":681,"question":"effect","label":1,"premise":"The student tried to do the math in his head.","choice1":"He got out a calculator.","choice2":"He got confused."}
+{"idx":682,"question":"cause","label":1,"premise":"The baby fell asleep.","choice1":"The father changed the baby's diaper.","choice2":"The father gently rocked the baby."}
+{"idx":683,"question":"effect","label":1,"premise":"The girl threw the water balloon at the boy.","choice1":"The boy got a concussion.","choice2":"The boy got soaked."}
+{"idx":684,"question":"effect","label":0,"premise":"The photographer forgot to use the flash on the camera.","choice1":"The photos turned out blurry.","choice2":"Everyone in the photos refused to smile."}
+{"idx":685,"question":"cause","label":1,"premise":"I declined the invitation to the birthday party.","choice1":"I was lonely.","choice2":"I was out of town."}
+{"idx":686,"question":"cause","label":0,"premise":"I exercised.","choice1":"I felt energetic.","choice2":"I was scared."}
+{"idx":687,"question":"effect","label":1,"premise":"I squeezed the damp sponge.","choice1":"It soaked up water.","choice2":"Water seeped out of it."}
+{"idx":688,"question":"cause","label":1,"premise":"The vacationers took a ferry to the resort.","choice1":"The resort was booked.","choice2":"The resort was on an island."}
+{"idx":689,"question":"cause","label":1,"premise":"The teenager got a tattoo.","choice1":"She was afraid of needles.","choice2":"She wanted to rebel."}
+{"idx":690,"question":"effect","label":0,"premise":"An unfamiliar car parked outside my house.","choice1":"I became suspicious.","choice2":"I called the police."}
+{"idx":691,"question":"cause","label":0,"premise":"The criminal turned himself in.","choice1":"The evidence implicated him.","choice2":"There was no evidence against him."}
+{"idx":692,"question":"effect","label":0,"premise":"The heavyset man decided to lose weight.","choice1":"He cut out sweets.","choice2":"He avoided caffeine."}
+{"idx":693,"question":"effect","label":0,"premise":"The girl stepped on the ice.","choice1":"She slid.","choice2":"She shivered."}
+{"idx":694,"question":"cause","label":0,"premise":"The woman had rings under her eyes.","choice1":"She stayed up all night.","choice2":"She put her son to bed."}
+{"idx":695,"question":"cause","label":0,"premise":"Lava flowed from the volcano.","choice1":"The volcano erupted.","choice2":"The volcano was dormant."}
+{"idx":696,"question":"cause","label":1,"premise":"The woman put her shoes on.","choice1":"She knew everyone at the party.","choice2":"She wanted to leave the party."}
+{"idx":697,"question":"effect","label":0,"premise":"I paid the tollbooth attendant.","choice1":"She let me pass through the tollbooth.","choice2":"She detained me at the tollbooth."}
+{"idx":698,"question":"cause","label":1,"premise":"The executive went bankrupt.","choice1":"He sold his company stock.","choice2":"He squandered his fortune."}
+{"idx":699,"question":"cause","label":1,"premise":"The man went to the doctor.","choice1":"The doctor was on leave.","choice2":"The man felt ill."}
+{"idx":700,"question":"cause","label":0,"premise":"I exited my bedroom through the window.","choice1":"The house was on fire.","choice2":"The house was empty."}
+{"idx":701,"question":"cause","label":0,"premise":"The boy's fingers became pruny.","choice1":"He took a long shower.","choice2":"He lathered his hands with soap."}
+{"idx":702,"question":"cause","label":0,"premise":"I spit out the milk.","choice1":"The milk tasted sour.","choice2":"My mouth was dry."}
+{"idx":703,"question":"effect","label":1,"premise":"I missed the bus.","choice1":"I was early to work.","choice2":"I was late to work."}
+{"idx":704,"question":"effect","label":1,"premise":"The truck collided with the car.","choice1":"The truck sped up.","choice2":"The car got smashed."}
+{"idx":705,"question":"effect","label":0,"premise":"The team rigged the contest in their favor.","choice1":"They won.","choice2":"They dropped out."}
+{"idx":706,"question":"cause","label":1,"premise":"The soda bottle hissed.","choice1":"I turned over the bottle.","choice2":"I twisted off the cap."}
+{"idx":707,"question":"effect","label":0,"premise":"The boy was locked out of his house.","choice1":"He crawled in through an open window.","choice2":"He climbed up to the roof."}
+{"idx":708,"question":"effect","label":1,"premise":"The doorbell rang.","choice1":"The visitor tapped the knocker on the door.","choice2":"The woman peered through the keyhole in the door."}
+{"idx":709,"question":"effect","label":0,"premise":"The man stained his suit.","choice1":"He got it dry-cleaned.","choice2":"He hung it in his closet."}
+{"idx":710,"question":"effect","label":0,"premise":"The girl squeezed the tube of toothpaste.","choice1":"The toothpaste squirted out of the tube.","choice2":"The girl spit out the toothpaste."}
+{"idx":711,"question":"effect","label":0,"premise":"Civilian deaths from the war surged.","choice1":"Pacifists staged a protest.","choice2":"Pacifists held a parade."}
+{"idx":712,"question":"cause","label":1,"premise":"The girl yanked the ribbon out of her hair.","choice1":"She tied the ribbon.","choice2":"The ribbon looked babyish."}
+{"idx":713,"question":"effect","label":1,"premise":"The man got plastic surgery.","choice1":"He aged.","choice2":"He looked younger."}
+{"idx":714,"question":"cause","label":0,"premise":"A baby chicken emerged from the egg.","choice1":"The egg hatched.","choice2":"I cracked the egg."}
+{"idx":715,"question":"effect","label":0,"premise":"The prisoner starved.","choice1":"He died.","choice2":"He fled."}
+{"idx":716,"question":"effect","label":1,"premise":"The man lost his balance on the ladder.","choice1":"He climbed up the ladder.","choice2":"He fell off the ladder."}
+{"idx":717,"question":"cause","label":0,"premise":"The child burped.","choice1":"He took a swig of soda.","choice2":"He opened the soda can."}
+{"idx":718,"question":"effect","label":1,"premise":"A cold draft came in through the window.","choice1":"I relaxed.","choice2":"I shivered."}
+{"idx":719,"question":"cause","label":1,"premise":"The student received a scholarship to go to college.","choice1":"Her classmates respected her.","choice2":"She made good grades."}
+{"idx":720,"question":"cause","label":1,"premise":"The girl poked fun at the boy.","choice1":"She lived next door to him.","choice2":"She had a crush on him."}
+{"idx":721,"question":"cause","label":1,"premise":"The hungry vagrant stole food.","choice1":"He incited pity.","choice2":"He had no money."}
+{"idx":722,"question":"cause","label":1,"premise":"I called my friend to chat.","choice1":"I wanted privacy.","choice2":"I felt lonely."}
+{"idx":723,"question":"effect","label":0,"premise":"The man extended his hand to me.","choice1":"I shook his hand.","choice2":"I slapped him."}
+{"idx":724,"question":"cause","label":1,"premise":"I ducked.","choice1":"The fireworks launched up in the air.","choice2":"The frisbee soared towards my head."}
+{"idx":725,"question":"cause","label":0,"premise":"The girl bit her nails.","choice1":"She was worried.","choice2":"She was surprised."}
+{"idx":726,"question":"cause","label":1,"premise":"I turned the page on the calendar.","choice1":"I marked an appointment on the calendar.","choice2":"It was the beginning of a new month."}
+{"idx":727,"question":"effect","label":1,"premise":"The husband discovered that his wife was having an affair.","choice1":"He fired his lawyer.","choice2":"He filed for divorce."}
+{"idx":728,"question":"effect","label":0,"premise":"The girl dropped the rubber ball.","choice1":"The ball bounced.","choice2":"The ball glowed."}
+{"idx":729,"question":"effect","label":1,"premise":"The girl made a mistake on her exam.","choice1":"She guessed at the answer.","choice2":"She erased her answer."}
+{"idx":730,"question":"effect","label":1,"premise":"The player tackled his opponent.","choice1":"His opponent caught the pass.","choice2":"His opponent hit the ground."}
+{"idx":731,"question":"cause","label":0,"premise":"I picked the tomatoes from the vine.","choice1":"They were ripe.","choice2":"I watered them."}
+{"idx":732,"question":"effect","label":1,"premise":"The man wanted to act romantic.","choice1":"He met his ex-girlfriend for lunch.","choice2":"He bought his girlfriend chocolates."}
+{"idx":733,"question":"cause","label":1,"premise":"The mercury in the thermometer rose.","choice1":"I dropped the thermometer.","choice2":"The weather got warmer."}
+{"idx":734,"question":"effect","label":0,"premise":"A tornado came through the town.","choice1":"The roof of the courthouse blew off.","choice2":"The highway became dangerously icy."}
+{"idx":735,"question":"effect","label":0,"premise":"The student received tutoring.","choice1":"His grades improved.","choice2":"He cheated on the exam."}
+{"idx":736,"question":"cause","label":1,"premise":"I felt comfortable.","choice1":"I kneeled down on the ground.","choice2":"I wrapped myself in a blanket."}
+{"idx":737,"question":"effect","label":1,"premise":"I polished the stone.","choice1":"It became slippery.","choice2":"It became shiny."}
+{"idx":738,"question":"effect","label":1,"premise":"I added sugar to the coffee.","choice1":"The coffee smelled strong.","choice2":"The coffee tasted sweet."}
+{"idx":739,"question":"effect","label":0,"premise":"The man shuffled through the papers.","choice1":"He got a paper cut.","choice2":"He shredded the papers."}
+{"idx":740,"question":"effect","label":0,"premise":"I pounded the nail with the hammer.","choice1":"The nail sunk into the wood.","choice2":"The nail became rusty."}
+{"idx":741,"question":"effect","label":0,"premise":"The fish bit the line.","choice1":"The fisherman reeled in the fish.","choice2":"The fisherman recast the line."}
+{"idx":742,"question":"cause","label":0,"premise":"The teenager was embarrassed to go to school.","choice1":"She got a pimple.","choice2":"She got her braces off."}
+{"idx":743,"question":"cause","label":0,"premise":"My facial expression lit up.","choice1":"I received good news.","choice2":"I lost my patience."}
+{"idx":744,"question":"cause","label":1,"premise":"I wiped my hands with a towel.","choice1":"The towel was wet.","choice2":"My hands were wet."}
+{"idx":745,"question":"cause","label":0,"premise":"The man lost his balance on the stool.","choice1":"The stool wobbled underneath him.","choice2":"He spilled paint on the stool."}
+{"idx":746,"question":"cause","label":0,"premise":"The teammates directed blame at each other.","choice1":"They lost their game.","choice2":"Their coach cancelled practice."}
+{"idx":747,"question":"cause","label":0,"premise":"I asked for forgiveness.","choice1":"I regretted my mistake.","choice2":"I achieved my goal."}
+{"idx":748,"question":"cause","label":1,"premise":"The woman became bored with her date.","choice1":"He asked her questions about herself.","choice2":"He talked incessantly about himself."}
+{"idx":749,"question":"effect","label":1,"premise":"The girl flashed a smile.","choice1":"Her cheeks reddened.","choice2":"Her dimples showed."}
+{"idx":750,"question":"cause","label":0,"premise":"The enemy ship blew up.","choice1":"It passed over the mine.","choice2":"It sailed into the harbor."}
+{"idx":751,"question":"cause","label":1,"premise":"The man punctured his foot.","choice1":"He walked into a puddle.","choice2":"He stepped on broken glass."}
+{"idx":752,"question":"effect","label":0,"premise":"The detectives dusted the crime scene for fingerprints.","choice1":"They discovered the identity of the murderer.","choice2":"They found the weapon at the crime scene."}
+{"idx":753,"question":"effect","label":0,"premise":"There was a lot of traffic on the highway.","choice1":"I took a detour.","choice2":"I asked for a ride."}
+{"idx":754,"question":"effect","label":1,"premise":"The nation's economy declined.","choice1":"Many people got sick.","choice2":"Many people faced unemployment."}
+{"idx":755,"question":"cause","label":0,"premise":"The crossing guard blew her whistle at the children.","choice1":"They were about to walk into oncoming traffic.","choice2":"She recognized them from her neighborhood."}
+{"idx":756,"question":"cause","label":1,"premise":"I rolled my eyes at my friend.","choice1":"He told me the truth.","choice2":"He made a sarcastic remark."}
+{"idx":757,"question":"effect","label":0,"premise":"The car ran out of gas.","choice1":"The driver was stranded on the road.","choice2":"The driver picked up a hitchhiker."}
+{"idx":758,"question":"effect","label":0,"premise":"The woman went into labor.","choice1":"The baby was delivered.","choice2":"The woman had morning sickness."}
+{"idx":759,"question":"cause","label":1,"premise":"The man's hat blew away.","choice1":"He took off the hat.","choice2":"It was windy outside."}
+{"idx":760,"question":"cause","label":0,"premise":"The girl attended her classmate's birthday party.","choice1":"She received an invitation.","choice2":"She bought a gift."}
+{"idx":761,"question":"effect","label":0,"premise":"The boy's forehead felt hot.","choice1":"His mother took his temperature.","choice2":"His mother took him to the park."}
+{"idx":762,"question":"cause","label":0,"premise":"The man sprayed himself with cologne.","choice1":"He wanted to impress his date.","choice2":"He put gel in his hair."}
+{"idx":763,"question":"effect","label":0,"premise":"The electricity in the house shut off.","choice1":"I looked for a flashlight.","choice2":"I picked up a shovel."}
+{"idx":764,"question":"cause","label":1,"premise":"The family moved into a bigger house.","choice1":"The son graduated from high school.","choice2":"The mother gave birth to twins."}
+{"idx":765,"question":"cause","label":0,"premise":"The marathoner kept at a slow pace.","choice1":"She wanted to conserve her energy.","choice2":"She saw the finish line."}
+{"idx":766,"question":"cause","label":1,"premise":"The boy kicked the vending machine.","choice1":"The machine spit out the change.","choice2":"The bag of chips was stuck."}
+{"idx":767,"question":"effect","label":1,"premise":"My friend's dog died.","choice1":"I rolled my eyes at him.","choice2":"I gave him a hug."}
+{"idx":768,"question":"effect","label":1,"premise":"The businessman's credit card got declined.","choice1":"He wrote an IOU.","choice2":"He paid with cash."}
+{"idx":769,"question":"cause","label":1,"premise":"The man cursed.","choice1":"He clipped his nails.","choice2":"He stubbed his toe."}
+{"idx":770,"question":"cause","label":1,"premise":"The man felt proud of his brother.","choice1":"His brother got in an argument with their parents.","choice2":"His brother got accepted into law school."}
+{"idx":771,"question":"effect","label":0,"premise":"The girl wanted to learn about the solar system.","choice1":"She went to the library.","choice2":"She looked at the stars."}
+{"idx":772,"question":"cause","label":1,"premise":"The poster stuck to the wall.","choice1":"I positioned the poster above the door.","choice2":"I put tape on the back of the poster."}
+{"idx":773,"question":"effect","label":0,"premise":"The client approved the architect's plans for the building.","choice1":"The architect constructed the building.","choice2":"The architect adjusted the plans."}
+{"idx":774,"question":"cause","label":0,"premise":"The man dropped his spoon.","choice1":"His hand was shaking.","choice2":"He licked the spoon."}
+{"idx":775,"question":"effect","label":1,"premise":"The CEO of the company resigned.","choice1":"The board of directors dissolved the company.","choice2":"The board of directors found his replacement."}
+{"idx":776,"question":"effect","label":0,"premise":"I arrived late to the lecture.","choice1":"I took a seat in the back row.","choice2":"I approached the podium."}
+{"idx":777,"question":"cause","label":0,"premise":"The man was released from jail.","choice1":"His family paid his bail.","choice2":"He attacked a fellow inmate."}
+{"idx":778,"question":"cause","label":1,"premise":"The family lost all their belongings.","choice1":"They sold their house.","choice2":"Their house caught fire."}
+{"idx":779,"question":"effect","label":1,"premise":"I stomped on the aluminum can.","choice1":"The can was recycled.","choice2":"The can got crushed."}
+{"idx":780,"question":"effect","label":1,"premise":"The girl joined the debate team.","choice1":"She learned to use a computer.","choice2":"She learned communication skills."}
+{"idx":781,"question":"cause","label":0,"premise":"My mood improved.","choice1":"I listened to music.","choice2":"I did the dishes."}
+{"idx":782,"question":"effect","label":1,"premise":"The charity made a goal to raise money.","choice1":"They fed the homeless.","choice2":"They held an auction."}
+{"idx":783,"question":"effect","label":1,"premise":"The roller coaster plunged down the steep drop.","choice1":"The passengers giggled.","choice2":"The passengers screamed."}
+{"idx":784,"question":"effect","label":1,"premise":"I was furious.","choice1":"I checked the mailbox upon leaving the house.","choice2":"I slammed the door upon leaving the house."}
+{"idx":785,"question":"effect","label":1,"premise":"The man wanted to watch the sunrise.","choice1":"He travelled north.","choice2":"He got up early."}
+{"idx":786,"question":"effect","label":1,"premise":"I folded the paper.","choice1":"I recycled the paper.","choice2":"The paper creased."}
+{"idx":787,"question":"effect","label":1,"premise":"The nation endured a natural disaster.","choice1":"Leaders of other countries formed an alliance.","choice2":"Leaders of other countries sent emergency relief."}
+{"idx":788,"question":"cause","label":1,"premise":"The boy's clothes got soaked.","choice1":"He climbed out of the pool.","choice2":"He fell into the pool."}
+{"idx":789,"question":"cause","label":0,"premise":"The student rushed to finish the book.","choice1":"It was due to be returned to the library.","choice2":"He borrowed it from a friend."}
+{"idx":790,"question":"cause","label":1,"premise":"The criminal was executed.","choice1":"He was thrown in jail.","choice2":"He was convicted of murder."}
+{"idx":791,"question":"cause","label":0,"premise":"Sunlight entered the room.","choice1":"I opened the curtains.","choice2":"I unlocked the door."}
+{"idx":792,"question":"effect","label":0,"premise":"I yanked the imposter's hair.","choice1":"Her wig came off.","choice2":"She went bald."}
+{"idx":793,"question":"cause","label":1,"premise":"The editor reworded a sentence in the manuscript.","choice1":"He found the manuscript compelling.","choice2":"He deemed the sentence unclear."}
+{"idx":794,"question":"cause","label":0,"premise":"The woman cancelled her credit card account.","choice1":"She realized the card was missing.","choice2":"She realized the card was expired."}
+{"idx":795,"question":"effect","label":1,"premise":"The man and woman fell in love.","choice1":"They attended college.","choice2":"They got married."}
+{"idx":796,"question":"effect","label":0,"premise":"The music was too faint to hear.","choice1":"I turned up the volume.","choice2":"I composed my own song."}
+{"idx":797,"question":"cause","label":0,"premise":"The boy's hair was sticking up.","choice1":"The girl ruffled it.","choice2":"The girl pulled it."}
+{"idx":798,"question":"cause","label":1,"premise":"The bug got squashed.","choice1":"I sprayed myself with bug repellent.","choice2":"I stepped on the bug."}
+{"idx":799,"question":"cause","label":0,"premise":"I opened my eyes.","choice1":"I woke up.","choice2":"I relaxed."}
+{"idx":800,"question":"effect","label":0,"premise":"My neighbor's music was blaring.","choice1":"I asked him to turn it down.","choice2":"I asked to borrow the CD from him."}
+{"idx":801,"question":"cause","label":1,"premise":"The man's family lived in poverty.","choice1":"He was frugal with his earnings.","choice2":"He earned below minimum wage."}
+{"idx":802,"question":"effect","label":0,"premise":"The student graduated from the university.","choice1":"He looked for a job.","choice2":"He took up a hobby."}
+{"idx":803,"question":"effect","label":1,"premise":"The artist mixed yellow paint into blue paint.","choice1":"The paint splattered everywhere.","choice2":"The paint turned green."}
+{"idx":804,"question":"cause","label":1,"premise":"I changed the topic of conversation.","choice1":"I ran out of things to talk about.","choice2":"The conversation became tense."}
+{"idx":805,"question":"effect","label":0,"premise":"My brother was released from the hospital.","choice1":"I welcomed him back home.","choice2":"I gave him the cold shoulder."}
+{"idx":806,"question":"effect","label":0,"premise":"The curtain on the stage went up.","choice1":"The opening scene of the play began.","choice2":"The actors in the play exited the stage."}
+{"idx":807,"question":"cause","label":0,"premise":"The hostage submitted to the kidnapper's mandates.","choice1":"The kidnapper threatened to hurt the hostage.","choice2":"The kidnapper left the hostage by himself."}
+{"idx":808,"question":"cause","label":1,"premise":"A boom reverberated across the stage.","choice1":"The musician tapped his foot.","choice2":"The musician pounded the drum."}
+{"idx":809,"question":"cause","label":0,"premise":"The parents rushed to their child's bedroom.","choice1":"The child awoke screaming from a nightmare.","choice2":"The child was scared to look under her bed."}
+{"idx":810,"question":"cause","label":1,"premise":"The woman communicated with sign language.","choice1":"She was born premature.","choice2":"She was born deaf."}
+{"idx":811,"question":"effect","label":1,"premise":"A drought occurred in the region.","choice1":"The water became contaminated.","choice2":"The crops perished."}
+{"idx":812,"question":"effect","label":0,"premise":"The cat chased the bird.","choice1":"The bird flew away.","choice2":"The bird caught a worm."}
+{"idx":813,"question":"cause","label":1,"premise":"The girl switched schools.","choice1":"School let out for the summer.","choice2":"She moved to a new town."}
+{"idx":814,"question":"effect","label":1,"premise":"The factory owner refused to raise employees' wages.","choice1":"The owner appointed a new manager.","choice2":"The employees went on strike."}
+{"idx":815,"question":"effect","label":1,"premise":"The leader antagonized the extremists among his country.","choice1":"The extremists influenced him.","choice2":"The extremists assassinated him."}
+{"idx":816,"question":"effect","label":0,"premise":"I walked barefoot on the beach.","choice1":"Sand stuck to my feet.","choice2":"Waves crashed along the shore."}
+{"idx":817,"question":"effect","label":0,"premise":"I woke up in the middle of the night feeling cold.","choice1":"I put sweatpants on.","choice2":"I drank a glass of water."}
+{"idx":818,"question":"cause","label":1,"premise":"The mother hushed her son.","choice1":"Her son smirked.","choice2":"Her son whined."}
+{"idx":819,"question":"cause","label":1,"premise":"A hole ripped in my jeans.","choice1":"I zipped up the jeans.","choice2":"I tripped on the pavement."}
+{"idx":820,"question":"effect","label":1,"premise":"The boy wore braces.","choice1":"He got a cavity.","choice2":"His teeth became straight."}
+{"idx":821,"question":"effect","label":0,"premise":"I worked out at the gym yesterday.","choice1":"I woke up today with sore muscles.","choice2":"I woke up today with a sore throat."}
+{"idx":822,"question":"effect","label":1,"premise":"The girl whispered back and forth to each other at the lunch table.","choice1":"Other students sat down at the lunch table.","choice2":"Other students at the lunch table felt left out."}
+{"idx":823,"question":"effect","label":0,"premise":"The child landed on the trampoline.","choice1":"She sprung back up into the air.","choice2":"She decided to try to do a flip."}
+{"idx":824,"question":"effect","label":0,"premise":"I deposited the letter in the mailbox.","choice1":"The post office delivered the letter.","choice2":"The post office expedited the letter."}
+{"idx":825,"question":"effect","label":0,"premise":"The gambler was confident.","choice1":"He bet all of his money.","choice2":"He went home broke."}
+{"idx":826,"question":"cause","label":0,"premise":"The forest fire spread.","choice1":"The winds became stronger.","choice2":"The arsonists were apprehended."}
+{"idx":827,"question":"effect","label":1,"premise":"The child skinned his knee.","choice1":"His mother sent him to his room.","choice2":"His mother put a bandage on the wound."}
+{"idx":828,"question":"cause","label":1,"premise":"The man survived the deadly illness.","choice1":"He signed his will.","choice2":"He received an organ transplant."}
+{"idx":829,"question":"effect","label":1,"premise":"I took a sip of the scalding coffee.","choice1":"I bit my tongue.","choice2":"I burnt my tongue."}
+{"idx":830,"question":"cause","label":1,"premise":"The editor fired the writer.","choice1":"The writer avoided bias in her stories.","choice2":"The writer missed an important deadline."}
+{"idx":831,"question":"cause","label":1,"premise":"I felt exhausted.","choice1":"I slept all day.","choice2":"I studied all day."}
+{"idx":832,"question":"cause","label":0,"premise":"The physician diagnosed the patient.","choice1":"She identified the patient's symptoms.","choice2":"She prescribed pills to the patient."}
+{"idx":833,"question":"cause","label":1,"premise":"I scratched my skin.","choice1":"It was sweaty.","choice2":"It felt itchy."}
+{"idx":834,"question":"cause","label":1,"premise":"The man underwent emergency surgery.","choice1":"He lost his temper.","choice2":"He suffered a heart attack."}
+{"idx":835,"question":"cause","label":0,"premise":"The man's arm muscles bulged.","choice1":"He flexed his arms.","choice2":"He rubbed his arms."}
+{"idx":836,"question":"cause","label":0,"premise":"The man raised his eyebrows.","choice1":"He was surprised.","choice2":"He felt discouraged."}
+{"idx":837,"question":"cause","label":0,"premise":"I excused my colleague's blunder.","choice1":"I believed his intentions were good.","choice2":"I believed that he knew better."}
+{"idx":838,"question":"effect","label":0,"premise":"The man quit smoking.","choice1":"He began exercising more.","choice2":"He started waking up earlier."}
+{"idx":839,"question":"effect","label":1,"premise":"The woman punched her attacker in the nose.","choice1":"The attacker's body went lifeless.","choice2":"The attacker started to bleed."}
+{"idx":840,"question":"cause","label":0,"premise":"The dart missed the bull's eye.","choice1":"The man's aim was off.","choice2":"The man was losing the game."}
+{"idx":841,"question":"cause","label":0,"premise":"The homeowner requested that an exterminator come to his house.","choice1":"He discovered rats in the basement.","choice2":"He kept an ant farm in his room."}
+{"idx":842,"question":"cause","label":0,"premise":"I suggested to my houseguest that we go out to dinner.","choice1":"I was too tired to prepare anything.","choice2":"My houseguest overstayed her welcome."}
+{"idx":843,"question":"effect","label":0,"premise":"The girl caught her brother reading her diary.","choice1":"She started hiding the diary.","choice2":"She got a new diary."}
+{"idx":844,"question":"effect","label":0,"premise":"The woman was short on money for rent.","choice1":"She worked overtime.","choice2":"She quit her job."}
+{"idx":845,"question":"cause","label":0,"premise":"The child's hand quickly recoiled.","choice1":"He touched the hot stove.","choice2":"He patted the puppy's head."}
+{"idx":846,"question":"effect","label":1,"premise":"The company wanted to gauge customer satisfaction.","choice1":"They offered a discount to new customers.","choice2":"They distributed a survey to customers."}
+{"idx":847,"question":"cause","label":1,"premise":"The wood floor became scratched.","choice1":"The boy threw the cushions off the couch.","choice2":"The boy dragged a chair across the floor."}
+{"idx":848,"question":"cause","label":1,"premise":"I shielded my face.","choice1":"My enemy taunted me.","choice2":"My enemy cocked a fist."}
+{"idx":849,"question":"cause","label":0,"premise":"The famous statue burned down.","choice1":"It was struck by lightning.","choice2":"People came to venerate it."}
+{"idx":850,"question":"effect","label":1,"premise":"I left the fruit out on the table.","choice1":"The fruit shed seeds.","choice2":"Flies swarmed the fruit."}
+{"idx":851,"question":"cause","label":1,"premise":"The ballerina tore a ligament.","choice1":"She pointed her toes.","choice2":"She twisted her ankle."}
+{"idx":852,"question":"cause","label":1,"premise":"The child's shoelaces came untied.","choice1":"He learned how to tie them.","choice2":"He ran around on the playground."}
+{"idx":853,"question":"effect","label":1,"premise":"I became enthralled in the book.","choice1":"I returned the book.","choice2":"I lost track of time."}
+{"idx":854,"question":"cause","label":0,"premise":"The man held similar beliefs to those of his parents.","choice1":"His parents influenced him.","choice2":"His parents disowned him."}
+{"idx":855,"question":"cause","label":0,"premise":"The car gradually slowed to a stop.","choice1":"It ran out of gas.","choice2":"The driver fell asleep."}
+{"idx":856,"question":"effect","label":1,"premise":"The man ate the ice cream in the sun.","choice1":"The ice cream lost its flavor.","choice2":"The ice cream dripped from the cone."}
+{"idx":857,"question":"cause","label":1,"premise":"I hung artwork in the room.","choice1":"The carpet looked dirty.","choice2":"The walls looked bare."}
+{"idx":858,"question":"cause","label":0,"premise":"I left work early.","choice1":"I had a headache.","choice2":"My boss held a meeting."}
+{"idx":859,"question":"effect","label":0,"premise":"The puppy soiled the carpet.","choice1":"The owner scolded the puppy.","choice2":"The owner gave the puppy a treat."}
+{"idx":860,"question":"effect","label":0,"premise":"I apologized to my friend.","choice1":"My friend forgave me.","choice2":"My friend became infuriated."}
+{"idx":861,"question":"cause","label":1,"premise":"The man stood out in the crowd.","choice1":"He carried a backpack.","choice2":"He wore a neon vest."}
+{"idx":862,"question":"effect","label":1,"premise":"The witness lied under oath.","choice1":"He completed his testimony.","choice2":"He was charged with perjury."}
+{"idx":863,"question":"cause","label":0,"premise":"The woman dyed her hair.","choice1":"She wanted a new look.","choice2":"She wanted to blend in."}
+{"idx":864,"question":"effect","label":1,"premise":"The immigrants were caught illegally residing in the country.","choice1":"They found employment.","choice2":"They were deported."}
+{"idx":865,"question":"effect","label":0,"premise":"The public speaker cracked a joke.","choice1":"The audience laughed.","choice2":"The audience stood up."}
+{"idx":866,"question":"effect","label":0,"premise":"I looked into the sun.","choice1":"The sun blinded me.","choice2":"The sun tanned my skin."}
+{"idx":867,"question":"effect","label":1,"premise":"I felt bored.","choice1":"I snorted.","choice2":"I yawned."}
+{"idx":868,"question":"cause","label":0,"premise":"The steak was difficult to cut.","choice1":"The knife was dull.","choice2":"The steak was raw."}
+{"idx":869,"question":"cause","label":1,"premise":"The woman declared bankruptcy.","choice1":"She received alimony payment.","choice2":"She acquired massive debt."}
+{"idx":870,"question":"effect","label":1,"premise":"The lights in my friend's apartment were on.","choice1":"I wondered if he was out.","choice2":"I decided to pay him a visit."}
+{"idx":871,"question":"effect","label":1,"premise":"I put the flower under my nose.","choice1":"The petals came off the flower.","choice2":"I picked up the flower's scent."}
+{"idx":872,"question":"cause","label":0,"premise":"The woman felt nostalgic.","choice1":"She ran into a childhood friend.","choice2":"She yelled at her children."}
+{"idx":873,"question":"effect","label":1,"premise":"The student procrastinated on the paper.","choice1":"He submitted the paper early.","choice2":"He submitted the paper incomplete."}
+{"idx":874,"question":"effect","label":1,"premise":"My car broke down.","choice1":"I went to the mall.","choice2":"I called a mechanic."}
+{"idx":875,"question":"cause","label":1,"premise":"I discarded the note.","choice1":"It was anonymous.","choice2":"It was illegible."}
+{"idx":876,"question":"effect","label":1,"premise":"The bird flapped its wings.","choice1":"It laid eggs.","choice2":"It ascended upwards."}
+{"idx":877,"question":"cause","label":1,"premise":"I parked in the driveway.","choice1":"The garage was open.","choice2":"The garage was full."}
+{"idx":878,"question":"effect","label":1,"premise":"The criminal aimed the gun at his victim.","choice1":"The criminal put down the gun.","choice2":"The victim put his hands up."}
+{"idx":879,"question":"cause","label":1,"premise":"I looked forward to the weekend.","choice1":"I planned to attend my uncle's funeral.","choice2":"I planned to attend my friend's wedding."}
+{"idx":880,"question":"cause","label":0,"premise":"I lost track of time.","choice1":"I was daydreaming.","choice2":"I was nauseous."}
+{"idx":881,"question":"cause","label":0,"premise":"The document printed out illegibly.","choice1":"The printer was low on ink.","choice2":"The print was out of paper."}
+{"idx":882,"question":"effect","label":0,"premise":"The stadium played the national anthem.","choice1":"The fans turned to the flag.","choice2":"The fans rushed the field."}
+{"idx":883,"question":"effect","label":1,"premise":"The dip tasted bland.","choice1":"I served it.","choice2":"I put salt in it."}
+{"idx":884,"question":"effect","label":0,"premise":"I set the paper towel on the spill.","choice1":"The towel absorbed the liquid.","choice2":"The spill left a sticky residue."}
+{"idx":885,"question":"effect","label":0,"premise":"The woman was interrupted in the midst of reading her book.","choice1":"She bookmarked her page.","choice2":"She reread the book."}
+{"idx":886,"question":"effect","label":0,"premise":"The plane hit some turbulence.","choice1":"The man tightened his seatbelt.","choice2":"The man looked out the window."}
+{"idx":887,"question":"cause","label":1,"premise":"The boy flinched.","choice1":"The girl ignored him.","choice2":"The girl poked him."}
+{"idx":888,"question":"cause","label":0,"premise":"The doctors gave the patient an artificial limb.","choice1":"They amputated her leg.","choice2":"They monitored her vitals."}
+{"idx":889,"question":"effect","label":1,"premise":"The boy pinched the girl's elbow.","choice1":"She shrugged her shoulders at him.","choice2":"She jerked her arm away from him."}
+{"idx":890,"question":"cause","label":0,"premise":"I asked my friend for advice.","choice1":"I valued his opinion.","choice2":"I knew I was right."}
+{"idx":891,"question":"effect","label":0,"premise":"The boy stepped in mud.","choice1":"The mud stuck to his shoes.","choice2":"The mud hit him in the face."}
+{"idx":892,"question":"effect","label":0,"premise":"The town received several inches of snow.","choice1":"Schools shut down.","choice2":"People hid underground."}
+{"idx":893,"question":"effect","label":0,"premise":"The employee's shift ended.","choice1":"He went home for the day.","choice2":"He threatened to quit the job."}
+{"idx":894,"question":"cause","label":0,"premise":"The tree damaged the house.","choice1":"The tree fell onto the roof.","choice2":"The tree shaded the backyard."}
+{"idx":895,"question":"cause","label":1,"premise":"The wood split in half.","choice1":"I stacked the wood in the fireplace.","choice2":"I swung the axe down to the wood."}
+{"idx":896,"question":"cause","label":1,"premise":"The family congratulated the couple.","choice1":"The couple announced that they were separating.","choice2":"The couple announced that they were having a baby."}
+{"idx":897,"question":"cause","label":0,"premise":"The girl sent the boy a valentine.","choice1":"She liked him.","choice2":"She kissed him."}
+{"idx":898,"question":"cause","label":1,"premise":"I nodded my head at my friend's statement.","choice1":"I was confused.","choice2":"I agreed with him."}
+{"idx":899,"question":"cause","label":1,"premise":"The friends flipped a coin.","choice1":"They wanted to find a compromise.","choice2":"They wanted to make a fair decision."}
+{"idx":900,"question":"effect","label":1,"premise":"The timer in the kitchen went off.","choice1":"The man unloaded the groceries into the refrigerator.","choice2":"The man took the pizza out of the oven."}
+{"idx":901,"question":"effect","label":1,"premise":"The woman set an ambitious goal.","choice1":"She slacked off.","choice2":"She worked hard."}
+{"idx":902,"question":"effect","label":1,"premise":"The wealthy man died of old age.","choice1":"His son got into legal trouble.","choice2":"His son inherited his fortune."}
+{"idx":903,"question":"effect","label":0,"premise":"The woman stomped on the flames.","choice1":"The flames went out.","choice2":"Smoke arose from the flames."}
+{"idx":904,"question":"cause","label":1,"premise":"The woman's car was in the shop.","choice1":"Her driver's license was revoked.","choice2":"She got in a car accident."}
+{"idx":905,"question":"effect","label":1,"premise":"I slept through my alarm.","choice1":"I made breakfast.","choice2":"I missed breakfast."}
+{"idx":906,"question":"effect","label":0,"premise":"The public figure got out of the limousine.","choice1":"Cameras flashed in his direction.","choice2":"His family attended the press conference."}
+{"idx":907,"question":"effect","label":0,"premise":"The woman lingered in the bathtub.","choice1":"The bathwater became lukewarm.","choice2":"The bathwater drained out of the tub."}
+{"idx":908,"question":"effect","label":0,"premise":"The college student wanted to meet other students on campus.","choice1":"He joined a fraternity.","choice2":"He majored in engineering."}
+{"idx":909,"question":"cause","label":0,"premise":"I lifted up the couch cushions.","choice1":"I was looking for loose change.","choice2":"I was rearranging the living room."}
+{"idx":910,"question":"effect","label":0,"premise":"The wasp flew towards the boy.","choice1":"The boy ran away.","choice2":"The boy picked a flower."}
+{"idx":911,"question":"effect","label":0,"premise":"The woman was found guilty of a misdemeanor.","choice1":"She was sentenced to perform community service.","choice2":"She was put on death row."}
+{"idx":912,"question":"effect","label":1,"premise":"I stirred the sugar into the hot tea.","choice1":"The tea steamed.","choice2":"The sugar dissolved."}
+{"idx":913,"question":"cause","label":1,"premise":"The veteran walked with a limp.","choice1":"He was drafted for the war.","choice2":"He was injured in battle."}
+{"idx":914,"question":"effect","label":1,"premise":"The criminal ran away from the police.","choice1":"The police attended to the victim.","choice2":"The police chased the criminal."}
+{"idx":915,"question":"cause","label":0,"premise":"The laptop wouldn't turn on.","choice1":"I dropped it.","choice2":"I charged it."}
+{"idx":916,"question":"cause","label":0,"premise":"The woman ran out of room in her closet.","choice1":"She acquired an extensive wardrobe.","choice2":"She folded her laundry."}
+{"idx":917,"question":"cause","label":1,"premise":"The man was heartbroken.","choice1":"His wife gave birth.","choice2":"His wife left him."}
+{"idx":918,"question":"effect","label":0,"premise":"The man obtained a degree.","choice1":"He became qualified for the job he wanted.","choice2":"His job offer was rescinded."}
+{"idx":919,"question":"cause","label":1,"premise":"The man's voice projected clearly throughout the auditorium.","choice1":"He greeted the audience.","choice2":"He spoke into the microphone."}
+{"idx":920,"question":"effect","label":0,"premise":"I tossed a coin into the fountain of water.","choice1":"The coin sunk to the bottom.","choice2":"The coin broke in half."}
+{"idx":921,"question":"effect","label":0,"premise":"The player hit the ball toward the hole.","choice1":"The ball went in the hole.","choice2":"The ball retreated back to the player."}
+{"idx":922,"question":"effect","label":1,"premise":"I breathed in the dust in the attic.","choice1":"I hiccupped.","choice2":"I sneezed."}
+{"idx":923,"question":"cause","label":0,"premise":"The store cashier called security.","choice1":"The customer used counterfeit money.","choice2":"The customer left his headlights on."}
+{"idx":924,"question":"cause","label":0,"premise":"I took the garbage out.","choice1":"The garbage made the kitchen smell bad.","choice2":"I accidentally threw away my shopping list."}
+{"idx":925,"question":"effect","label":0,"premise":"The family went to the zoo.","choice1":"The children admired the animals.","choice2":"The children chased the animals."}
+{"idx":926,"question":"cause","label":1,"premise":"The man's breathing was loud.","choice1":"His kidneys were failing.","choice2":"His lungs were congested."}
+{"idx":927,"question":"effect","label":1,"premise":"I had an extra ticket for the concert.","choice1":"I asked my friend for directions to the venue.","choice2":"I asked my friend if he was interested in going."}
+{"idx":928,"question":"effect","label":1,"premise":"The air conditioner in the house broke.","choice1":"I brought out blankets.","choice2":"I opened the windows."}
+{"idx":929,"question":"cause","label":1,"premise":"The boy's back ached.","choice1":"His backpack was open.","choice2":"His backpack was heavy."}
+{"idx":930,"question":"cause","label":1,"premise":"I bought my mother a present.","choice1":"I baked her a cake.","choice2":"It was her birthday."}
+{"idx":931,"question":"cause","label":1,"premise":"The daffodils in the garden were destroyed.","choice1":"A bee stung the gardener.","choice2":"Squirrels dug up the bulbs."}
+{"idx":932,"question":"effect","label":1,"premise":"I struck the match.","choice1":"The flame faded out.","choice2":"The match produced a flame."}
+{"idx":933,"question":"cause","label":0,"premise":"The disputing parties reached a settlement.","choice1":"They didn't want to debate in court.","choice2":"They wanted to repair their personal relationship."}
+{"idx":934,"question":"cause","label":0,"premise":"The children were sent to an orphanage.","choice1":"Their parents died.","choice2":"Their parents spoiled them."}
+{"idx":935,"question":"effect","label":0,"premise":"A meteorite landed in the ocean.","choice1":"A tsunami occurred.","choice2":"It began to hail."}
+{"idx":936,"question":"effect","label":1,"premise":"The hiker encountered a poisonous snake.","choice1":"She became dehydrated.","choice2":"She panicked."}
+{"idx":937,"question":"cause","label":0,"premise":"The oven became hot.","choice1":"I turned the oven on.","choice2":"I put the dish in the oven."}
+{"idx":938,"question":"effect","label":1,"premise":"I squeezed the lemon wedge.","choice1":"The lemon got moldy.","choice2":"The lemon squirted."}
+{"idx":939,"question":"effect","label":1,"premise":"The country discovered new land.","choice1":"The country abandoned the land.","choice2":"The country colonized the land."}
+{"idx":940,"question":"effect","label":0,"premise":"The glass toppled off the table.","choice1":"It shattered all over the floor.","choice2":"It landed in a pile of laundry."}
+{"idx":941,"question":"cause","label":0,"premise":"The table wobbled.","choice1":"The floor was uneven.","choice2":"The floor was slippery."}
+{"idx":942,"question":"effect","label":0,"premise":"The father caught his son lying.","choice1":"His son confessed the truth.","choice2":"The father trusted his son."}
+{"idx":943,"question":"effect","label":1,"premise":"The man's head throbbed with pain.","choice1":"He took cough syrup.","choice2":"He took aspirin."}
+{"idx":944,"question":"cause","label":0,"premise":"The train slowed down.","choice1":"It was approaching the station.","choice2":"It was running behind schedule."}
+{"idx":945,"question":"cause","label":1,"premise":"The man went through therapy.","choice1":"Mental illness ran in his family.","choice2":"He was diagnosed with depression."}
+{"idx":946,"question":"cause","label":1,"premise":"The woman clutched her throat.","choice1":"She swallowed her food.","choice2":"She choked on her food."}
+{"idx":947,"question":"effect","label":0,"premise":"The woman had a sore throat.","choice1":"Her voice sounded raspy.","choice2":"She spoke with an accent."}
+{"idx":948,"question":"effect","label":0,"premise":"The dog eyed the juicy steak on the table.","choice1":"It drooled.","choice2":"It laid down."}
+{"idx":949,"question":"effect","label":1,"premise":"The woman's business succeeded.","choice1":"She fired her employees.","choice2":"She became wealthy."}
+{"idx":950,"question":"cause","label":0,"premise":"The students exited the classroom.","choice1":"The bell rang.","choice2":"The teacher assigned homework."}
+{"idx":951,"question":"effect","label":0,"premise":"The woman claimed she saw a ghost.","choice1":"Her acquaintances expressed skepticism.","choice2":"Her acquaintances related to her."}
+{"idx":952,"question":"cause","label":1,"premise":"The man lost his hearing.","choice1":"He nearly drowned in the ocean.","choice2":"He was nearly killed in an explosion."}
+{"idx":953,"question":"effect","label":1,"premise":"The child let go of the balloon string.","choice1":"The balloon deflated.","choice2":"The balloon rose into the air."}
+{"idx":954,"question":"cause","label":0,"premise":"The man lost his ability to speak.","choice1":"He had a stroke.","choice2":"He took a deep breath."}
+{"idx":955,"question":"cause","label":0,"premise":"The woman tripped on the sidewalk.","choice1":"There was a crack in the cement.","choice2":"She heard her name being called."}
+{"idx":956,"question":"effect","label":1,"premise":"The man did a canon ball into the pool.","choice1":"The lifeguard jumped in after him.","choice2":"The man soaked the lifeguard."}
+{"idx":957,"question":"effect","label":0,"premise":"I took antibiotics.","choice1":"My infection cleared up.","choice2":"My infection spread."}
+{"idx":958,"question":"effect","label":0,"premise":"The traffic light turned yellow.","choice1":"The driver pushed the brake.","choice2":"The driver honked his horn."}
+{"idx":959,"question":"cause","label":1,"premise":"The plastic container melted.","choice1":"I soaked the container in warm water.","choice2":"I placed the container on the hot stove."}
+{"idx":960,"question":"cause","label":0,"premise":"The car got dented.","choice1":"The driver hit a telephone pole.","choice2":"The driver ran a red light."}
+{"idx":961,"question":"effect","label":1,"premise":"The boy studied all night.","choice1":"He skipped the exam.","choice2":"He passed the exam."}
+{"idx":962,"question":"cause","label":0,"premise":"The young boy clung to the ledge of the pool.","choice1":"He feared learning to swim.","choice2":"The lifeguard was on duty."}
+{"idx":963,"question":"effect","label":0,"premise":"I put my hand to my chest.","choice1":"I felt my heartbeat.","choice2":"My heart rate sped up."}
+{"idx":964,"question":"effect","label":1,"premise":"The building adjacent to my office was under construction.","choice1":"My office was crowded.","choice2":"My office was noisy."}
+{"idx":965,"question":"effect","label":0,"premise":"The family wanted to get to know their new neighbors.","choice1":"The family invited the neighbors over for dinner.","choice2":"The family waved to the neighbors from their yard."}
+{"idx":966,"question":"cause","label":0,"premise":"Water splashed up from the pool.","choice1":"The swimmer dove into the pool.","choice2":"The swimmer floated in the pool."}
+{"idx":967,"question":"effect","label":0,"premise":"I bit into a slice of watermelon.","choice1":"I accidentally swallowed a seed.","choice2":"I accidentally chipped my tooth."}
+{"idx":968,"question":"cause","label":1,"premise":"The boy tripped.","choice1":"His jacket was unzipped.","choice2":"His shoelaces were untied."}
+{"idx":969,"question":"cause","label":0,"premise":"The woman put earplugs in.","choice1":"She was distracted by noise.","choice2":"She got her ears pierced."}
+{"idx":970,"question":"cause","label":0,"premise":"I refilled my water bottle.","choice1":"I drank all the water in it.","choice2":"I kept it in the fridge."}
+{"idx":971,"question":"cause","label":0,"premise":"The television show was censored.","choice1":"It contained vulgar language.","choice2":"It had a complicated plot."}
+{"idx":972,"question":"effect","label":0,"premise":"The ship wrecked.","choice1":"The crew drowned.","choice2":"The crew encountered pirates."}
+{"idx":973,"question":"effect","label":1,"premise":"The boy felt stumped by the riddle.","choice1":"He solved the riddle.","choice2":"He requested a hint."}
+{"idx":974,"question":"effect","label":1,"premise":"The phone rang.","choice1":"The man hung up the phone.","choice2":"The man picked up the phone."}
+{"idx":975,"question":"effect","label":1,"premise":"The woman was staring at me.","choice1":"I hugged her.","choice2":"I felt uncomfortable."}
+{"idx":976,"question":"cause","label":1,"premise":"The group left the museum.","choice1":"They took pictures of the exhibits.","choice2":"They viewed all the exhibits."}
+{"idx":977,"question":"effect","label":1,"premise":"The man started an argument with me.","choice1":"My friend introduced me to the man.","choice2":"My friend stood up for me."}
+{"idx":978,"question":"effect","label":0,"premise":"The tire on my bike was flat.","choice1":"I pumped air into the tire.","choice2":"I switched gears on the bike."}
+{"idx":979,"question":"effect","label":1,"premise":"The girl looked pale.","choice1":"Her father read her a story.","choice2":"Her father felt her forehead."}
+{"idx":980,"question":"effect","label":0,"premise":"The pen ran out of ink.","choice1":"I used a pencil.","choice2":"I signed my name."}
+{"idx":981,"question":"cause","label":0,"premise":"The man was denied for a loan.","choice1":"He was in debt.","choice2":"He started a business."}
+{"idx":982,"question":"cause","label":0,"premise":"The girl stayed home from school.","choice1":"She had chicken pox.","choice2":"She enjoyed learning math."}
+{"idx":983,"question":"effect","label":0,"premise":"The trash bag was full.","choice1":"I took it to the dumpster.","choice2":"I dumped it down the sink."}
+{"idx":984,"question":"cause","label":1,"premise":"I vacuumed the carpet.","choice1":"My roommate spilled punch.","choice2":"My dog shed hair."}
+{"idx":985,"question":"effect","label":1,"premise":"The man lost his temper.","choice1":"He turned off his computer.","choice2":"He threw a chair across the room."}
+{"idx":986,"question":"effect","label":0,"premise":"The girl threw a twig into the campfire.","choice1":"The twig burned.","choice2":"The fire went out."}
+{"idx":987,"question":"cause","label":0,"premise":"The man got out of the shower.","choice1":"The hot water was gone.","choice2":"He couldn't find a towel."}
+{"idx":988,"question":"effect","label":0,"premise":"The parents wanted their children to go to college.","choice1":"They set aside a savings fund for tuition.","choice2":"They encouraged their children to play outside."}
+{"idx":989,"question":"effect","label":0,"premise":"The man unlaced his shoes.","choice1":"The shoes loosened.","choice2":"The shoes became worn."}
+{"idx":990,"question":"effect","label":0,"premise":"The man ate half of the entree.","choice1":"He refrigerated the leftovers.","choice2":"He saved the recipe."}
+{"idx":991,"question":"effect","label":0,"premise":"My ankle was swollen.","choice1":"I put ice on it.","choice2":"I rubbed lotion on it."}
+{"idx":992,"question":"effect","label":1,"premise":"My office door was open.","choice1":"I talked to my colleague at my desk.","choice2":"I overheard the conversation in the hall."}
+{"idx":993,"question":"effect","label":1,"premise":"I had to wait in line.","choice1":"I took a seat.","choice2":"I skimmed a magazine."}
+{"idx":994,"question":"effect","label":0,"premise":"The man swatted at the fly.","choice1":"The fly buzzed away.","choice2":"The fly stayed still."}
+{"idx":995,"question":"cause","label":0,"premise":"The man wrote a will.","choice1":"He was dying.","choice2":"He was a widower."}
+{"idx":996,"question":"effect","label":1,"premise":"The runner sensed his competitor gaining on him.","choice1":"He dropped out of the race.","choice2":"He sped up his pace."}
+{"idx":997,"question":"effect","label":1,"premise":"I thought carefully about the problem.","choice1":"I asked for advice.","choice2":"I came up with a solution."}
+{"idx":998,"question":"effect","label":0,"premise":"The traveler walked on the shaky suspension bridge.","choice1":"He felt terrified.","choice2":"He felt ecstatic."}
+{"idx":999,"question":"effect","label":1,"premise":"The man anticipated the team's victory.","choice1":"He met his friends to watch the game.","choice2":"He made a bet with his friends."}
+{"idx":1000,"question":"effect","label":1,"premise":"The boy couldn't fall asleep.","choice1":"He set his alarm clock.","choice2":"He counted sheep."}
